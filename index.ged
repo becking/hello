@@ -1,0 +1,3757 @@
+﻿0 HEAD
+1 SOUR RootsMagic
+2 NAME RootsMagic
+2 VERS 7.5.9.0
+2 CORP RootsMagic, Inc.
+3 ADDR PO Box 495
+4 CONT Springville, UT 84663
+4 CONT USA
+3 PHON 1-800-ROOTSMAGIC
+3 WWW www.RootsMagic.com
+1 DEST RootsMagic
+1 DATE 10 JUN 2019
+1 FILE index.ged
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Living
+1 SEX F
+1 _UID BFDC52F152694E279DA50B88A522E5C55431
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F2@
+0 @I2@ INDI
+1 NAME Living
+1 SEX M
+1 _UID 0659B7351A29485482D5C9DE1F40BA2465CC
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F1@
+1 FAMS @F2@
+1 FAMC @F3@
+0 @I3@ INDI
+1 NAME Living
+1 SEX M
+1 _UID FF0C65335692408EA883FD4D2B09A708B1EE
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F4@
+1 FAMC @F1@
+0 @I4@ INDI
+1 NAME Living
+1 SEX F
+1 _UID CFE395DD88BC4592B8977068A101F6777557
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F1@
+0 @I5@ INDI
+1 NAME Ida Mary /Collings/
+2 GIVN Ida Mary
+2 SURN Collings
+1 SEX F
+1 _UID 72845791CCA642C18052B0C1572DA69A5AF6
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S12@
+1 SOUR @S27@
+2 PAGE 1981
+1 SOUR @S27@
+2 PAGE 1981
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4492
+1 BIRT
+2 DATE JUL 1906
+2 PLAC Wanaka, Otago, New Zealand
+2 SOUR @S30@
+3 PAGE New Zealand, Birth Index, 1840-1950
+1 RESI
+2 DATE 1981
+2 PLAC Christchurch Central, Canterbury, New Zealand
+2 SOUR @S27@
+3 PAGE 1981
+2 SOUR @S27@
+3 PAGE 1981
+1 DEAT
+2 CAUS NZ BDM: 1995/48772
+2 DATE 28 AUG 1995
+2 PLAC Christchurch, New Zealand
+2 SOUR @S12@
+1 BURI
+2 DATE 28 AUG 1995
+2 PLAC Bromley, Christchurch City, Canterbury, New Zealand
+2 NOTE 28 Aug 1995  BURIAL   Ruru Lawn Cemetery  Bromley, Christchurch City, C
+3 CONC anterbury, New Zealand  PLOT: Block 13. Plot 364  MEMORIAL ID: 17435985
+3 CONC 0
+2 SOUR @S12@
+1 FAMS @F3@
+1 FAMC @F13@
+0 @I6@ INDI
+1 NAME Ernest Reilly /Leeming/
+2 GIVN Ernest Reilly
+2 SURN Leeming
+1 SEX M
+1 _UID 4A7555D9D00B4494AF0D687CD09592BCF3C9
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S22@
+1 SOUR @S26@
+1 SOUR @S27@
+2 PAGE 1978
+1 SOUR @S28@
+1 SOUR @S12@
+1 SOUR @S27@
+2 PAGE 1963
+1 SOUR @S27@
+2 PAGE 1938
+1 SOUR @S27@
+2 PAGE 1949
+1 SOUR @S27@
+2 PAGE 1978
+1 SOUR @S30@
+2 PAGE New Zealand, Birth Index, 1840-1950
+1 SOUR @S28@
+1 BIRT
+2 DATE 8 JAN 1902
+2 PLAC Canterbury, New Zealand
+2 SOUR @S30@
+3 PAGE New Zealand, Birth Index, 1840-1950
+1 RESI 93 Edgeware Rd, St Albans, Christchurch, Canterbury, New Zealand
+2 DATE 1938
+2 PLAC Christchurch, Canterbury, New Zealand
+2 SOUR @S28@
+2 SOUR @S27@
+3 PAGE 1938
+1 RESI 93 Edgeware Rd, St Albans, Christchurch, Canterbury, New Zealand  Commercial Artist
+2 DATE 1942
+2 PLAC New Zealand
+2 SOUR @S26@
+1 RESI 93 Edgeware Rd, St Albans, Christchurch, Canterbury, New Zealand
+2 DATE 1947
+2 PLAC Christchurch, Canterbury, New Zealand
+2 SOUR @S28@
+1 RESI 93 Edgeware Rd, St Albans, Christchurch,  Canterbury, New Zealand
+2 DATE 1949
+2 PLAC St Albans, Canterbury, New Zealand
+2 SOUR @S27@
+3 PAGE 1949
+1 RESI 201 Bealey Ave, St Albans,  Christchurch
+2 DATE 1963
+2 PLAC St Albans, Canterbury, New Zealand
+2 SOUR @S27@
+3 PAGE 1963
+1 RESI
+2 DATE 1978
+2 PLAC Christchurch Central, Canterbury, New Zealand
+2 SOUR @S27@
+3 PAGE 1978
+2 SOUR @S27@
+3 PAGE 1978
+1 DEAT
+2 CAUS NZ BDM: 1979/40484
+2 DATE 10 SEP 1979
+2 PLAC Christchurch, Canterbury, New Zealand
+2 SOUR @S22@
+2 SOUR @S12@
+1 BURI
+2 DATE 10 SEP 1979
+2 PLAC Bromley, Christchurch City, Canterbury, New Zealand
+2 NOTE DEATH 10 Sep 1979 (aged 77)  BURIAL : Ruru Lawn Cemetery  Bromley, Chri
+3 CONC stchurch City, Canterbury, New Zealand  PLOT: Block 13. Plot 364  MEMOR
+3 CONC IAL ID: 174359848
+2 SOUR @S22@
+2 SOUR @S12@
+1 FAMS @F3@
+1 FAMC @F5@
+0 @I7@ INDI
+1 NAME Patrick Ernest /Leeming/
+2 GIVN Patrick Ernest
+2 SURN Leeming
+1 SEX M
+1 _UID 934E8552820A42DEADBC6F1C35DE062D9E73
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S27@
+2 PAGE 1963
+1 BIRT
+2 DATE ABT 1934
+2 PLAC Canterbury, New Zealand
+1 RESI
+2 DATE 1963
+2 PLAC Sydenham, Canterbury, New Zealand
+2 SOUR @S27@
+3 PAGE 1963
+1 DEAT
+2 DATE 16 MAR 2017
+2 PLAC New Zealand
+1 FAMS @F51@
+1 FAMC @F3@
+0 @I8@ INDI
+1 NAME Living
+1 SEX M
+1 _UID B7BA6E510C5C46DB9A220C54F9828F8B6A27
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMC @F3@
+0 @I9@ INDI
+1 NAME Loretta Mary /Leeming/
+2 GIVN Loretta Mary
+2 SURN Leeming
+1 SEX F
+1 _UID 0E16370FF93845A29604B14B79AE905F2E3D
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S27@
+2 PAGE 1957
+1 SOUR @S27@
+2 PAGE 1981
+1 SOUR @S27@
+2 PAGE 1978
+1 BIRT
+2 DATE 8 JUN 1936
+2 PLAC Canterbury, New Zealand
+1 RESI
+2 DATE 1957
+2 PLAC St Albans, Canterbury, New Zealand
+2 SOUR @S27@
+3 PAGE 1957
+1 RESI
+2 DATE 1978
+2 PLAC Christchurch Central, Canterbury, New Zealand
+2 SOUR @S27@
+3 PAGE 1978
+1 RESI
+2 DATE 1981
+2 PLAC Christchurch Central, Canterbury, New Zealand
+2 SOUR @S27@
+3 PAGE 1981
+1 DEAT
+2 DATE 2 JAN 2016
+2 PLAC Christchurch, New Zealand
+1 FAMS @F42@
+1 FAMC @F3@
+0 @I10@ INDI
+1 NAME Living
+1 SEX M
+1 _UID 0B2B766D0E1D40CDBE99BD19F92ED165DB4D
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F41@
+1 FAMC @F3@
+0 @I11@ INDI
+1 NAME Alfred /Leeming/
+2 GIVN Alfred
+2 SURN Leeming
+1 SEX M
+1 _UID 1E910FD28BFC4A4B8BF610A9B410E48513C6
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S22@
+1 SOUR @S25@
+1 SOUR @S12@
+1 SOUR @S27@
+2 PAGE 1946
+1 SOUR @S30@
+2 PAGE New Zealand, Birth Index, 1840-1950
+1 SOUR @S36@
+2 PAGE New Zealand, Death Index, 1848-1966
+1 SOUR @S27@
+2 PAGE 1938
+1 SOUR @S27@
+2 PAGE 1935
+1 SOUR @S27@
+2 PAGE 1914
+1 SOUR @S27@
+2 PAGE 1905-1906
+1 SOUR @S27@
+2 PAGE 1928
+1 SOUR @S27@
+2 PAGE 1919
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4498
+1 BIRT
+2 DATE 18 APR 1868
+2 PLAC Sheffield, Malvern Hills, New Zealand
+2 SOUR @S12@
+1 RESI
+2 DATE 1905–1906
+2 PLAC Timaru, Canterbury, New Zealand
+2 SOUR @S27@
+3 PAGE 1905-1906
+1 RESI
+2 DATE 1914
+2 PLAC Timaru, Canterbury, New Zealand
+2 SOUR @S27@
+3 PAGE 1914
+1 RESI
+2 DATE 1919
+2 PLAC Timaru, Canterbury, New Zealand
+2 SOUR @S27@
+3 PAGE 1919
+1 RESI
+2 DATE 1928
+2 PLAC Timaru, Canterbury, New Zealand
+2 SOUR @S27@
+3 PAGE 1928
+1 RESI
+2 DATE 1935
+2 PLAC Timaru, Canterbury, New Zealand
+2 SOUR @S27@
+3 PAGE 1935
+1 RESI
+2 DATE 1938
+2 PLAC Timaru, Canterbury, New Zealand
+2 SOUR @S27@
+3 PAGE 1938
+1 RESI 53A Church St  Contractor
+2 DATE 1946
+2 PLAC Timaru, Canterbury, New Zealand
+2 SOUR @S27@
+3 PAGE 1946
+1 DEAT
+2 CAUS NZ BDM: 1949/26817  82 years
+2 DATE 25 AUG 1949
+2 PLAC Timaru, Canterbury, New Zealand
+2 SOUR @S22@
+2 SOUR @S12@
+2 SOUR @S36@
+3 PAGE New Zealand, Death Index, 1848-1966
+1 BURI
+2 DATE 30 AUG 1949
+2 PLAC Timaru, Timaru District, Canterbury, New Zealand
+2 SOUR @S22@
+2 SOUR @S12@
+1 FAMS @F5@
+1 FAMC @F8@
+0 @I12@ INDI
+1 NAME Flora /Price/
+2 GIVN Flora
+2 SURN Price
+1 SEX F
+1 _UID 46323732B2B540B385A4746622465D9FA2D1
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S12@
+1 BIRT
+2 DATE 21 OCT 1878
+2 PLAC Glentunnel, Canterbury, New Zealand
+2 SOUR @S12@
+1 BURI
+2 DATE 14 MAY 1960
+2 PLAC Bromley, Christchurch City, Canterbury, New Zealand
+2 NOTE Ruru Lawn Cemetery  Bromley, Christchurch City, Canterbury, New Zealand  P
+3 CONC LOT: Block 7. Plot 20  MEMORIAL ID: 174359849
+2 SOUR @S12@
+1 DEAT
+2 CAUS NZ BDM: 1960/23572  81 years
+2 DATE 14 MAY 1960
+2 PLAC Calvary Hospital, Christchurch, New Zealand
+2 SOUR @S12@
+1 FAMS @F5@
+1 FAMC @F32@
+0 @I13@ INDI
+1 NAME Sarah Ann /Chin Chee Maidman/
+2 GIVN Sarah Ann
+2 SURN Chin Chee Maidman
+1 SEX F
+1 _UID 5D3271FF452F48EA8D46170B7AA090509475
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S32@
+2 PAGE Archives New Zealand; Wellington, New Zealand; Series Number: 18805
+1 SOUR @S32@
+2 PAGE Archives New Zealand; Wellington, New Zealand; Series Number: 18805
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4500
+1 BIRT
+2 DATE 13 OCT 1860
+2 PLAC Mopork, Victoria, Australia
+2 SOUR @S32@
+3 PAGE Archives New Zealand; Wellington, New Zealand; Series Number: 18805
+2 SOUR @S32@
+3 PAGE Archives New Zealand; Wellington, New Zealand; Series Number: 18805
+1 DEAT
+2 DATE 17 AUG 1938
+2 PLAC Timaru, Canterbury, New Zealand
+1 FAMS @F13@
+1 FAMC @F15@
+0 @I14@ INDI
+1 NAME Frederick Arthur /Collings/
+2 GIVN Frederick Arthur
+2 SURN Collings
+1 SEX M
+1 _UID CD4B8066D52440EAAB8ED04876E169215395
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S34@
+1 SOUR @S32@
+2 PAGE Archives New Zealand; Wellington, New Zealand; Series Number: 18805
+1 SOUR @S32@
+2 PAGE Archives New Zealand; Wellington, New Zealand; Series Number: 18805
+1 SOUR @S37@
+2 PAGE Archives New Zealand; Wellington, New Zealand; Item: IE26806989; Roll: R15423705
+1 SOUR @S7@
+2 PAGE Class: RG 9; Piece: 461; Folio: 75; Page: 7; GSU roll: 542642
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 1573; Folio: 251; Page: 22; GSU roll: 174808-174809
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4501
+1 BIRT
+2 DATE 24 DEC 1848
+2 PLAC Greater London, London, Surrey, United Kingdom
+2 SOUR @S32@
+3 PAGE Archives New Zealand; Wellington, New Zealand; Series Number: 18805
+2 SOUR @S32@
+3 PAGE Archives New Zealand; Wellington, New Zealand; Series Number: 18805
+2 SOUR @S37@
+3 PAGE Archives New Zealand; Wellington, New Zealand; Item: IE26806989; Roll: R15423705
+2 SOUR @S7@
+3 PAGE Class: RG 9; Piece: 461; Folio: 75; Page: 7; GSU roll: 542642
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 1573; Folio: 251; Page: 22; GSU roll: 174808-174809
+1 RESI Relationship: Son
+2 DATE 1851
+2 PLAC Lambeth, Surrey, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 1573; Folio: 251; Page: 22; GSU roll: 174808-174809
+1 RESI Relationship: Son
+2 DATE 1861
+2 PLAC Mortlake, Surrey, England
+2 SOUR @S7@
+3 PAGE Class: RG 9; Piece: 461; Folio: 75; Page: 7; GSU roll: 542642
+1 EVEN
+2 TYPE Tried for attempted suicide
+2 DATE 27 AUG 1932
+2 PLAC Timaru
+1 DEAT
+2 DATE 26 SEP 1932
+2 PLAC Timaru. New Zealand.
+2 SOUR @S34@
+1 RESI
+2 PLAC Timaru, New Zealand
+2 SOUR @S34@
+1 FAMS @F13@
+1 FAMC @F36@
+0 @I15@ INDI
+1 NAME Living
+1 SEX F
+1 _UID 10839EC3A41842A6A06AFA9D728240C734C2
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F4@
+0 @I16@ INDI
+1 NAME Charles /Leeming/
+2 GIVN Charles
+2 SURN Leeming
+1 SEX M
+1 _UID AC678F2505534A7085D3686262E4985F3827
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S12@
+1 SOUR @S22@
+1 BIRT
+2 DATE 7 JAN 1900
+2 PLAC New Zealand
+2 SOUR @S12@
+1 DEAT
+2 DATE 27 SEP 1973
+2 SOUR @S12@
+2 SOUR @S22@
+1 BURI
+2 PLAC Bromley, Christchurch City, Canterbury, New Zealand
+2 SOUR @S12@
+2 SOUR @S22@
+1 FAMS @F6@
+1 FAMS @F7@
+1 FAMC @F5@
+0 @I17@ INDI
+1 NAME Rita Evadney /Leeming/
+2 GIVN Rita Evadney
+2 SURN Leeming
+1 SEX F
+1 _UID E61C5C45AE1F4D18AAB420717AB836B9E54A
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S30@
+2 PAGE New Zealand, Birth Index, 1840-1950
+1 SOUR @S12@
+1 SOUR @S27@
+2 PAGE 1938
+1 BIRT
+2 DATE 12 AUG 1906
+2 PLAC Timaru, Canterbury, New Zealand
+2 SOUR @S30@
+3 PAGE New Zealand, Birth Index, 1840-1950
+2 SOUR @S12@
+1 RESI
+2 DATE 1938
+2 PLAC Timaru, Canterbury, New Zealand
+2 SOUR @S27@
+3 PAGE 1938
+1 DEAT
+2 DATE 2 JUL 2006
+2 PLAC New Zealand
+2 SOUR @S12@
+1 BURI
+2 PLAC Timaru, Timaru District, Canterbury, New Zealand
+2 SOUR @S12@
+1 FAMS @F34@
+1 FAMC @F5@
+0 @I18@ INDI
+1 NAME Elizabeth /O'Reilly/
+2 GIVN Elizabeth
+2 SURN O'Reilly
+1 SEX F
+1 _UID 45E7F88333424F59904766AF514A7B652B3E
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S12@
+1 SOUR @S36@
+2 PAGE New Zealand, Death Index, 1848-1966
+1 SOUR @S34@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4507
+1 BIRT
+2 DATE 20 MAR 1847
+2 PLAC Kingscourt, Enniskeen, Ireland
+1 DEAT
+2 CAUS Burial: 12 December 1915, RC Cemetery, Darfield, Canterbury, New Zealand
+2 DATE 10 DEC 1915
+2 PLAC Glentunnel, Canterbury, New Zealand
+2 SOUR @S12@
+2 SOUR @S36@
+3 PAGE New Zealand, Death Index, 1848-1966
+2 SOUR @S34@
+1 RESI
+2 PLAC Glentunnel, New Zealand
+2 SOUR @S34@
+1 BURI
+2 PLAC Darfield, Selwyn District, Canterbury, New Zealand
+2 SOUR @S12@
+1 FAMS @F32@
+1 FAMC @F44@
+0 @I19@ INDI
+1 NAME Samuel Joseph /Price/
+2 GIVN Samuel Joseph
+2 SURN Price
+1 SEX M
+1 _UID 1BAA37DDC3D340FD91A19D5707E996E53DB3
+1 CHAN
+2 DATE 9 JUN 2019
+1 BIRT
+2 DATE 8 MAY 1845
+2 PLAC The Yellow Moss, Comber, Newtownards, County Down
+1 DEAT
+2 DATE 9 JAN 1908
+2 PLAC Glentunnel, Canterbury, New Zealand
+1 FAMS @F32@
+1 FAMC @F45@
+0 @I20@ INDI
+1 NAME William Webster /Leeming/
+2 GIVN William Webster
+2 SURN Leeming
+1 SEX M
+1 _UID D95458B4F97C4CE68C7D50B573FCCE133E21
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S22@
+1 SOUR @S29@
+1 SOUR @S1@
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4509
+1 BIRT
+2 DATE 21 NOV 1840
+2 PLAC Burnley, Lancashire, England
+2 SOUR @S22@
+2 SOUR @S1@
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 RESI Relationship: Son
+2 DATE 1851
+2 PLAC Habergham Eaves, Lancashire, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 RESI
+2 DATE 11 MAY 1892
+2 PLAC South Malvern, Selwyn
+2 SOUR @S29@
+1 DEAT
+2 DATE 23 MAY 1907
+2 PLAC Otago, New Zealand
+2 SOUR @S22@
+1 BURI
+2 PLAC Canterbury, North, Central, New Zealand
+2 SOUR @S22@
+1 FAMS @F8@
+1 FAMC @F9@
+0 @I21@ INDI
+1 NAME Elizabeth Ann /Abbott/
+2 GIVN Elizabeth Ann
+2 SURN Abbott
+1 SEX F
+1 _UID 6CE24FD47D344A7F97920209580512901E99
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S36@
+2 PAGE New Zealand, Death Index, 1848-1966
+1 SOUR @S27@
+2 PAGE 1928
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4510
+1 BIRT
+2 DATE 15 DEC 1840
+2 PLAC Eastgate, Burnley, Lancashire, England
+1 RESI
+2 DATE 1928
+2 PLAC Hurunui, Canterbury, New Zealand
+2 SOUR @S27@
+3 PAGE 1928
+1 DEAT
+2 DATE 10 NOV 1928
+2 PLAC Motueka, Nelson, New Zealand
+2 SOUR @S36@
+3 PAGE New Zealand, Death Index, 1848-1966
+1 FAMS @F8@
+0 @I22@ INDI
+1 NAME Agnes Mary /Cunningham/
+2 GIVN Agnes Mary
+2 SURN Cunningham
+1 SEX F
+1 _UID 6F235BB766FA4B118286F052BDC90CE62290
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S30@
+2 PAGE New Zealand, Birth Index, 1840-1950
+1 SOUR @S22@
+1 SOUR @S12@
+1 SOUR @S27@
+2 PAGE 1935
+1 BIRT
+2 DATE 1897
+2 PLAC Timaru, New Zealand
+2 SOUR @S30@
+3 PAGE New Zealand, Birth Index, 1840-1950
+1 RESI 40 Springfield Road, Christchurch North, Canterbury, New Zealand
+2 DATE 1935
+2 PLAC Christchurch North, Canterbury, New Zealand
+2 SOUR @S27@
+3 PAGE 1935
+1 BURI
+2 DATE JUL 1950
+2 PLAC Ruru Lawn Cemetery Bromley, Christchurch City, Canterbury, New Zealand
+2 SOUR @S22@
+2 SOUR @S12@
+1 DEAT
+2 CAUS NZ BDM Registration No: 1950/29645  Age 51 years
+2 DATE 7 JUL 1950
+2 PLAC New Zealand
+2 SOUR @S22@
+2 SOUR @S12@
+1 FAMS @F6@
+0 @I23@ INDI
+1 NAME Christina Marion /O'Connor/
+2 GIVN Christina Marion
+2 SURN O'Connor
+1 SEX F
+1 _UID DCF0EEA9CDBC4525A0EC2DF7A01FA956C4F2
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S12@
+1 BIRT
+2 DATE 28 FEB 1905
+2 PLAC New Zealand
+1 DEAT
+2 DATE 28 DEC 1989
+2 SOUR @S12@
+1 BURI
+2 PLAC Bromley, Christchurch City, Canterbury, New Zealand
+2 SOUR @S12@
+1 FAMS @F7@
+0 @I24@ INDI
+1 NAME Ellen /Leeming/
+2 GIVN Ellen
+2 SURN Leeming
+1 SEX F
+1 _UID 36C6DCB9E3C14AB492962F5AE6E575E00425
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 BIRT
+2 DATE ABT 1876
+1 DEAT
+2 DATE 19 SEP 1952
+2 PLAC Masterton, Wellington, New Zealand
+1 FAMS @F33@
+1 FAMS @F43@
+1 FAMC @F8@
+0 @I25@ INDI
+1 NAME Mary /LEEMING/
+2 GIVN Mary
+2 SURN LEEMING
+1 SEX F
+1 _UID 72FCB93DEBBF4F6185647BB0F5ECB50B7316
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4516
+1 BIRT
+2 DATE 1 OCT 1881
+2 PLAC New Zealand
+1 DEAT
+2 DATE JUN 1954
+2 PLAC New Zealand
+1 FAMS @F29@
+1 FAMC @F8@
+0 @I26@ INDI
+1 NAME William /LEEMING/
+2 GIVN William
+2 SURN LEEMING
+1 SEX M
+1 _UID 38EF095C18E34772A77099F0E5C269D4C462
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4517
+1 BIRT
+2 DATE 10 OCT 1872
+2 PLAC New Zealand
+1 DEAT
+2 DATE 23 MAR 1948
+2 PLAC Glentunnel, Selwyn, Canterbury, New Zealand
+1 FAMS @F12@
+1 FAMC @F8@
+0 @I27@ INDI
+1 NAME Eveline /LEEMING/
+2 GIVN Eveline
+2 SURN LEEMING
+1 NAME Evelyn /Leeming/
+2 GIVN Evelyn
+2 SURN Leeming
+2 SOUR @S25@
+1 SEX F
+1 _UID 76A5DDEE97714B2AAA0DBAF5C6B36237DB8A
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4518
+1 BIRT
+2 DATE 12 JUL 1885
+2 PLAC New Zealand
+1 DEAT
+2 DATE 1965
+2 PLAC New Zealand
+1 FAMS @F28@
+1 FAMC @F8@
+0 @I28@ INDI
+1 NAME James /Leeming/
+2 GIVN James
+2 SURN Leeming
+1 SEX M
+1 _UID 6C646AFE07F44FF98AFC85F40CF68CC1C9F6
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4519
+1 BIRT
+2 DATE 31 AUG 1879
+2 PLAC New Zealand
+1 DEAT
+2 DATE 1962
+2 PLAC New Zealand
+1 FAMC @F8@
+0 @I29@ INDI
+1 NAME Elizabeth /LEEMING/
+2 GIVN Elizabeth
+2 SURN LEEMING
+1 SEX F
+1 _UID 5C4DFD8ACE994426ADE2EA1510C1B5697E25
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4520
+1 BIRT
+2 DATE 19 OCT 1870
+2 PLAC Whitecliffs, Selwyn, Canterbury, New Zealand
+1 DEAT
+2 DATE 1941
+2 PLAC New Zealand
+1 FAMS @F30@
+1 FAMC @F8@
+0 @I30@ INDI
+1 NAME John Thomas /Leeming/
+2 GIVN John Thomas
+2 SURN Leeming
+1 SEX M
+1 _UID 062F7D6927B34B03AC2CC7E1EFE670B9C184
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S22@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4521
+1 BIRT
+2 DATE 25 OCT 1866
+2 PLAC Lyttelton, New Zealand
+1 DEAT
+2 DATE 14 APR 1931
+2 PLAC New Zealand
+2 SOUR @S22@
+1 BURI
+2 PLAC Canterbury, North, Central, New Zealand
+2 SOUR @S22@
+1 FAMS @F11@
+1 FAMC @F8@
+0 @I31@ INDI
+1 NAME Susannah /LEEMING/
+2 GIVN Susannah
+2 SURN LEEMING
+1 SEX F
+1 _UID 90857F65498346109AE591DAE0007667C2C5
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4522
+1 BIRT
+2 DATE 14 FEB 1864
+2 PLAC Lyttelton, New Zealand
+1 DEAT
+2 DATE 30 JUL 1946
+2 PLAC New Zealand
+1 FAMS @F31@
+1 FAMC @F8@
+0 @I32@ INDI
+1 NAME Robert /Leeming/
+2 GIVN Robert
+2 SURN Leeming
+1 SEX M
+1 _UID 8393E07FABB749768E8E035A8B18B9B21D1F
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4523
+1 BIRT
+2 DATE 18 SEP 1862
+2 PLAC Burnley, Lancashire, England
+1 DEAT
+2 DATE 10 SEP 1938
+2 PLAC New Zealand
+1 FAMS @F10@
+1 FAMC @F8@
+0 @I33@ INDI
+1 NAME Helena /LEEMING/
+2 GIVN Helena
+2 SURN LEEMING
+1 SEX F
+1 _UID 2A8F623E3FD94FAAA982B558A8A05462A030
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4524
+1 BIRT
+2 DATE 25 NOV 1874
+2 PLAC Whitecliffs, Selwyn, Canterbury, New Zealand
+1 DEAT
+2 DATE 29 OCT 1951
+2 PLAC New Zealand
+1 FAMC @F8@
+0 @I34@ INDI
+1 NAME Susanna /Webster/
+2 GIVN Susanna
+2 SURN Webster
+1 SEX F
+1 _UID 736599878EA44216A5109E2284BF6C09AF86
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S15@
+2 PAGE Place: Padiham, Lancashire, England; Date Range: 1793 - 1839; Film Number: 1040343
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 SOUR @S10@
+1 SOUR @S3@
+2 PAGE Class: RG10; Piece: 4153; Folio: 151; Page: 34; GSU roll: 846735
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4525
+1 BIRT
+2 DATE ABT 1812
+2 PLAC Padiham, Lancashire, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+2 SOUR @S3@
+3 PAGE Class: RG10; Piece: 4153; Folio: 151; Page: 34; GSU roll: 846735
+1 RESI Relationship: Wife
+2 DATE 1851
+2 PLAC Habergham Eaves, Lancashire, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 RESI Relationship: Head
+2 DATE 1871
+2 PLAC Padiham, Lancashire, England
+2 SOUR @S3@
+3 PAGE Class: RG10; Piece: 4153; Folio: 151; Page: 34; GSU roll: 846735
+1 DEAT
+2 DATE OCT 1873
+2 PLAC Burnley, Lancashire,
+1 RESI
+2 PLAC Padiham, Lancashire, England
+2 SOUR @S10@
+1 FAMS @F9@
+1 FAMC @F49@
+0 @I35@ INDI
+1 NAME John Atkinson /LEEMING/
+2 GIVN John Atkinson
+2 SURN LEEMING
+1 SEX M
+1 _UID D4A482090F2D438ABBBBAA7FE48161C6378F
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S15@
+2 PAGE Place: Padiham, Lancashire, England; Date Range: 1793 - 1839; Film Number: 1040343
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 SOUR @S10@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4526
+1 BIRT
+2 DATE 1799
+2 PLAC Ingleton, Yorkshire - West Riding, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 RESI Relationship: Head
+2 DATE 1851
+2 PLAC Habergham Eaves, Lancashire, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 DEAT
+2 DATE 1851
+2 PLAC Burnley, Lancashire, England
+1 RESI
+2 PLAC Padiham, Lancashire, England
+2 SOUR @S10@
+1 FAMS @F9@
+1 FAMC @F46@
+0 @I36@ INDI
+1 NAME Ann /Atkinson/
+2 GIVN Ann
+2 SURN Atkinson
+1 SEX F
+1 _UID 2C8BF314E5FF41AE97073C4D28C854120E10
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S21@
+1 SOUR @S40@
+2 PAGE Yorkshire Parish Register Section; Leeds, England, United Kingdom; Ingleton and Chapel-Le-Dale churches 1607-1812
+1 BIRT
+2 DATE 11 OCT 1772
+2 PLAC Ingleton  Yorkshire
+1 DEAT
+2 DATE JUN 1855
+2 PLAC Skipton, Yorkshire, England
+1 FAMS @F46@
+0 @I37@ INDI
+1 NAME David /Leeming/
+2 GIVN David
+2 SURN Leeming
+1 SEX M
+1 _UID 881C21B7010443488F1CB6CD09F9BBB1A852
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S21@
+1 SOUR @S14@
+1 SOUR @S40@
+2 PAGE Yorkshire Parish Register Section; Leeds, England, United Kingdom; Ingleton and Chapel-Le-Dale churches 1607-1812
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4528
+1 BIRT
+2 DATE 16 JUN 1770
+2 PLAC Clapham, Yorkshire, England
+1 BAPM
+2 DATE 16 JUN 1770
+2 PLAC Clapham, York, England
+2 SOUR @S14@
+1 DEAT
+2 DATE 1855
+2 PLAC Skipton Yorkshire
+1 FAMS @F46@
+1 FAMC @F47@
+0 @I38@ INDI
+1 NAME Mary /LEEMING/
+2 GIVN Mary
+2 SURN LEEMING
+1 SEX F
+1 _UID 6FF911C5CF84422BA2ABF62FAFEFB532F57E
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4529
+1 BIRT
+2 DATE 8 FEB 1850
+2 PLAC Habergham Eaves, Lancashire, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 RESI Relationship: Daughter
+2 DATE 1851
+2 PLAC Habergham Eaves, Lancashire, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 DEAT Y
+1 FAMC @F9@
+0 @I39@ INDI
+1 NAME John /Leeming/
+2 GIVN John
+2 SURN Leeming
+1 SEX M
+1 _UID D4F59A4300F44AEBA71D5452A6DF9776CB7F
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 BIRT
+2 DATE ABT 1848
+2 PLAC Hapton, Lancashire, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 RESI Relationship: Son
+2 DATE 1851
+2 PLAC Habergham Eaves, Lancashire, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 DEAT Y
+1 FAMC @F9@
+0 @I40@ INDI
+1 NAME Elizabeth /LEEMING/
+2 GIVN Elizabeth
+2 SURN LEEMING
+1 SEX F
+1 _UID D7FB04CA14DD49F2A075ED579949E612FFFB
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4531
+1 BIRT
+2 DATE ABT 1845
+2 PLAC Hapton, Lancashire, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 RESI Relationship: Daughter
+2 DATE 1851
+2 PLAC Habergham Eaves, Lancashire, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 DEAT Y
+1 FAMC @F9@
+0 @I41@ INDI
+1 NAME Robert /LEEMING/
+2 GIVN Robert
+2 SURN LEEMING
+1 SEX M
+1 _UID 25B44D019E634E8D8255AEE74E0BA0C93125
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4532
+1 BIRT
+2 DATE ABT 1838
+2 PLAC Blackburn, Lancashire, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 RESI Relationship: Son
+2 DATE 1851
+2 PLAC Habergham Eaves, Lancashire, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 DEAT Y
+1 FAMC @F9@
+0 @I42@ INDI
+1 NAME Thomas /LEEMING/
+2 GIVN Thomas
+2 SURN LEEMING
+1 SEX M
+1 _UID E3E9FD2B5BD745969405D359AD253D562BBA
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4533
+1 BIRT
+2 DATE ABT 1834
+2 PLAC Hapton, Lancashire, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 RESI Relationship: Son
+2 DATE 1851
+2 PLAC Habergham Eaves, Lancashire, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2252; Folio: 280; Page: 19; GSU roll: 87275
+1 DEAT Y
+1 FAMC @F9@
+0 @I43@ INDI
+1 NAME Nancy //
+2 GIVN Nancy
+1 SEX F
+1 _UID 519D2821F3494D258087670E793F5737A7DD
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 2253; Folio: 125; Page: 13; GSU roll: 87276
+1 BIRT
+2 DATE ABT 1782
+2 PLAC Padiham, Lancashire, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2253; Folio: 125; Page: 13; GSU roll: 87276
+1 RESI Relationship: Wife
+2 DATE 1851
+2 PLAC Whalley, Lancashire, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2253; Folio: 125; Page: 13; GSU roll: 87276
+1 DEAT Y
+1 FAMS @F49@
+0 @I44@ INDI
+1 NAME Thomas /Webster/
+2 GIVN Thomas
+2 SURN Webster
+1 SEX M
+1 _UID 60AE259F7A624276A28993B329EEC437E9E0
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 2253; Folio: 125; Page: 13; GSU roll: 87276
+1 SOUR @S20@
+1 BIRT
+2 DATE ABT 1782
+2 PLAC Padiham, Lancashire, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2253; Folio: 125; Page: 13; GSU roll: 87276
+1 BAPM
+2 DATE 9 JAN 1785
+2 PLAC Padiham, Lancashire, England
+2 SOUR @S20@
+1 RESI Relationship: Head
+2 DATE 1851
+2 PLAC Whalley, Lancashire, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 2253; Folio: 125; Page: 13; GSU roll: 87276
+1 DEAT Y
+1 FAMS @F49@
+0 @I45@ INDI
+1 NAME Mary /Stuart/
+2 GIVN Mary
+2 SURN Stuart
+1 SEX F
+1 _UID E927A753704A4F1180D03D374316353DB375
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 BIRT
+2 DATE 1876
+1 DEAT
+2 DATE 1948
+2 PLAC New Zealand
+1 FAMS @F10@
+0 @I46@ INDI
+1 NAME Living
+1 SEX M
+1 _UID 404582284A96430BB17E02B0E43C4CCC7638
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F31@
+0 @I47@ INDI
+1 NAME Living
+1 SEX F
+1 _UID 60ACE223576C45BA848AE16AF55221BB4F30
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F11@
+0 @I48@ INDI
+1 NAME Living
+1 SEX M
+1 _UID B113CBFB7B2342699BD33029841DF5C0F02B
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F30@
+0 @I49@ INDI
+1 NAME Living
+1 SEX M
+1 _UID 022BBEBD7AE940A2B2D1DB86E15C8C20BA66
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F28@
+0 @I50@ INDI
+1 NAME Janet "Jessie" Cooper /Cockburn/
+2 GIVN Janet "Jessie" Cooper
+2 SURN Cockburn
+1 SEX F
+1 _UID 51D28D7FCC9944E888FF3E7AEC24634FC1BA
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S36@
+2 PAGE New Zealand, Death Index, 1848-1966
+1 DEAT
+2 DATE MAR 1932
+2 PLAC Christchurch, Canterbury, New Zealand
+2 SOUR @S36@
+3 PAGE New Zealand, Death Index, 1848-1966
+1 FAMS @F12@
+0 @I51@ INDI
+1 NAME Living
+1 SEX M
+1 _UID EC59D1D2B38D4CC780AB018D9578FD1D1BC0
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F29@
+0 @I52@ INDI
+1 NAME Maria Carmela /Sapiano/
+2 GIVN Maria Carmela
+2 SURN Sapiano
+1 SEX F
+1 _UID 625515B946354346B733F890E9262DF72E6D
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S7@
+2 PAGE Class: RG 9; Piece: 461; Folio: 75; Page: 7; GSU roll: 542642
+1 SOUR @S17@
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 1573; Folio: 250; Page: 21; GSU roll: 174808-174809
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4565
+1 BIRT
+2 DATE 1809
+2 PLAC Malta
+2 SOUR @S7@
+3 PAGE Class: RG 9; Piece: 461; Folio: 75; Page: 7; GSU roll: 542642
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 1573; Folio: 250; Page: 21; GSU roll: 174808-174809
+1 RESI Relationship: Wife
+2 DATE 1851
+2 PLAC Lambeth, Surrey, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 1573; Folio: 250; Page: 21; GSU roll: 174808-174809
+1 RESI Relationship: Wife
+2 DATE 1861
+2 PLAC Mortlake, Surrey, England
+2 SOUR @S7@
+3 PAGE Class: RG 9; Piece: 461; Folio: 75; Page: 7; GSU roll: 542642
+1 DEAT
+2 DATE 22 JUN 1880
+2 PLAC St Hildas, Hampton Wick, Middlesex, England
+2 SOUR @S17@
+1 PROB
+2 DATE 26 AUG 1880
+2 PLAC Principal Registry
+2 SOUR @S17@
+1 FAMS @F36@
+1 FAMC @F40@
+0 @I53@ INDI
+1 NAME Thomas /Collings/
+2 GIVN Thomas
+2 SURN Collings
+1 SEX M
+1 _UID 823A3A8100CF473498CEFE39DA98F7BA8109
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S7@
+2 PAGE Class: RG 9; Piece: 461; Folio: 75; Page: 7; GSU roll: 542642
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 1573; Folio: 250; Page: 21; GSU roll: 174808-174809
+1 SOUR @S38@
+1 SOUR @S17@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4566
+1 BIRT
+2 DATE 9 JAN 1799
+2 PLAC Alverstoke, Hampshire, England
+2 SOUR @S7@
+3 PAGE Class: RG 9; Piece: 461; Folio: 75; Page: 7; GSU roll: 542642
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 1573; Folio: 250; Page: 21; GSU roll: 174808-174809
+1 RESI Relationship: Head
+2 DATE 1851
+2 PLAC Lambeth, Surrey, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 1573; Folio: 250; Page: 21; GSU roll: 174808-174809
+1 RESI Relationship: Head
+2 DATE 1861
+2 PLAC Mortlake, Surrey, England
+2 SOUR @S7@
+3 PAGE Class: RG 9; Piece: 461; Folio: 75; Page: 7; GSU roll: 542642
+1 DEAT
+2 DATE 23 SEP 1869
+2 PLAC Hampton Wick, Middlesex, England
+2 SOUR @S17@
+1 PROB
+2 DATE 12 OCT 1869
+2 PLAC Principal Registry
+2 SOUR @S17@
+1 FAMS @F36@
+1 FAMC @F38@
+0 @I54@ INDI
+1 NAME Hilda Vera /Collings/
+2 GIVN Hilda Vera
+2 SURN Collings
+1 SEX F
+1 _UID 2CE0B64810F74022B417BBB9558BC5B91003
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S12@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4567
+1 BIRT
+2 DATE 20 DEC 1905
+2 PLAC Wanaka Central Otago New Zealand
+1 DEAT
+2 DATE 17 MAY 1986
+2 PLAC Timaru  Canterbury, New Zealand
+2 SOUR @S12@
+1 BURI
+2 PLAC Timaru, Timaru District, Canterbury, New Zealand
+2 SOUR @S12@
+1 FAMS @F26@
+1 FAMC @F13@
+0 @I55@ INDI
+1 NAME Ethel Teresa /Collings/
+2 GIVN Ethel Teresa
+2 SURN Collings
+1 SEX F
+1 _UID AE5BEEFE07C445038140625D08EDDBEA4218
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S18@
+2 PAGE The National Archives of the UK; Kew, Surrey, England; Board of Trade: Commercial and Statistical Department and successors: Inwards Passenger Lists.; Class: BT26; Piece: 1309
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4568
+1 BIRT
+2 DATE 9 FEB 1902
+2 PLAC Wanaka, Central Otago, New Zealand
+2 SOUR @S18@
+3 PAGE The National Archives of the UK; Kew, Surrey, England; Board of Trade: Commercial and Statistical Department and successors: Inwards Passenger Lists.; Class: BT26; Piece: 1309
+1 EVEN
+2 TYPE Arrival
+2 DATE 30 APR 1954
+2 PLAC Southampton, England
+2 SOUR @S18@
+3 PAGE The National Archives of the UK; Kew, Surrey, England; Board of Trade: Commercial and Statistical Department and successors: Inwards Passenger Lists.; Class: BT26; Piece: 1309
+1 DEAT
+2 DATE 13 MAR 1990
+2 PLAC Warreton, Northern Cape, South Africa
+1 EVEN
+2 TYPE Departure
+2 PLAC Durban, South Africa
+2 SOUR @S18@
+3 PAGE The National Archives of the UK; Kew, Surrey, England; Board of Trade: Commercial and Statistical Department and successors: Inwards Passenger Lists.; Class: BT26; Piece: 1309
+1 FAMC @F13@
+0 @I56@ INDI
+1 NAME Charlotte Alice Gertrude /Collings/
+2 GIVN Charlotte Alice Gertrude
+2 SURN Collings
+1 SEX F
+1 _UID 347D6FF6E38942A1826C139EF28DAFC1F301
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4569
+1 BIRT
+2 DATE OCT 1899
+2 PLAC Wanaka Central Otago New Zealand
+1 DEAT
+2 DATE 11 DEC 1980
+2 PLAC Timaru Canterbury, New Zealand
+1 FAMS @F25@
+1 FAMC @F13@
+0 @I57@ INDI
+1 NAME Leo George Cuthbert /Collings/
+2 GIVN Leo George Cuthbert
+2 SURN Collings
+1 SEX M
+1 _UID DAA1014FDAC440BB80498C3E526C81144AF6
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S30@
+2 PAGE New Zealand, Birth Index, 1840-1950
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4570
+1 BIRT
+2 DATE 14 JUL 1899
+2 PLAC Wanaka Central Otago New Zealand
+1 BIRT
+2 DATE JUL 1900
+2 PLAC Wanaka Central Otago New Zealand
+2 SOUR @S30@
+3 PAGE New Zealand, Birth Index, 1840-1950
+1 DEAT
+2 DATE 4 MAR 1975
+2 PLAC Oamaru  Otago New Zealand
+1 FAMS @F24@
+1 FAMC @F13@
+0 @I58@ INDI
+1 NAME Mabel Matilda Frances /Collings/
+2 GIVN Mabel Matilda Frances
+2 SURN Collings
+1 SEX F
+1 _UID D402A8AC2E0B400C90028BCB1641F35334F2
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S25@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4571
+1 BIRT
+2 DATE 30 OCT 1885
+2 PLAC Lake Hawea, Central Otago, New Zealand
+1 DEAT
+2 DATE 17 AUG 1958
+2 PLAC Timaru Canterbury, New Zealand
+1 FAMS @F27@
+1 FAMC @F13@
+0 @I59@ INDI
+1 NAME Eric Godfrey /Collings/
+2 GIVN Eric Godfrey
+2 SURN Collings
+1 SEX M
+1 _UID DC10407F1DCC44018F6A6859E4167CCBD494
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S26@
+1 SOUR @S25@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4572
+1 BIRT
+2 DATE JAN 1908
+2 PLAC Wanaka Central Otago New Zealand
+1 RESI
+2 DATE 1942
+2 PLAC Timaru, New Zealand
+2 SOUR @S26@
+1 DEAT
+2 DATE 4 OCT 1997
+2 PLAC Timaru Canterbury, New Zealand
+1 FAMS @F23@
+1 FAMC @F13@
+0 @I60@ INDI
+1 NAME Frederick Henry Ernest /Collings/
+2 GIVN Frederick Henry Ernest
+2 SURN Collings
+1 SEX M
+1 _UID 6B95C8E7D0C94AD182C8C709498D06F750E3
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S22@
+1 SOUR @S36@
+2 PAGE New Zealand, Death Index, 1848-1966
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4573
+1 BIRT
+2 DATE JAN 1883
+2 PLAC Cromwell Central Otago New Zealand
+2 SOUR @S22@
+1 DEAT
+2 DATE 6 FEB 1952
+2 PLAC Tapanui West Otago New Zealand
+2 SOUR @S22@
+2 SOUR @S36@
+3 PAGE New Zealand, Death Index, 1848-1966
+1 BURI
+2 PLAC Otago, New Zealand
+2 SOUR @S22@
+1 FAMS @F22@
+1 FAMC @F13@
+0 @I61@ INDI
+1 NAME Joseph Arthur Gladstone /Collings/
+2 GIVN Joseph Arthur Gladstone
+2 SURN Collings
+1 SEX M
+1 _UID 4366FA7888454E479BE6BA6AF738AA625D9A
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S26@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4574
+1 BIRT
+2 DATE 14 JUL 1898
+2 PLAC Wanaka Central Otago New Zealand
+1 RESI
+2 DATE 1942
+2 PLAC Esplanade, Kaikoura, New Zealand
+2 SOUR @S26@
+1 DEAT
+2 DATE 24 OCT 1983
+2 PLAC Kaikoura, Canterbury, New Zealand
+1 FAMS @F21@
+1 FAMC @F13@
+0 @I62@ INDI
+1 NAME Gladys Amy Louisa /Collings/
+2 GIVN Gladys Amy Louisa
+2 SURN Collings
+1 SEX F
+1 _UID C4640551CB8F4D2EBB5BBD921316B6770ED6
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4575
+1 BIRT
+2 DATE 12 OCT 1895
+2 PLAC Wanaka Central Otago New Zealand
+1 DEAT
+2 DATE MAR 1984
+2 PLAC Temuka Canterbury , New Zealand
+1 FAMC @F13@
+0 @I63@ INDI
+1 NAME Herbert Edgar /Collings/
+2 GIVN Herbert Edgar
+2 SURN Collings
+1 SEX M
+1 _UID C91121B5242246EF883A33A3CA827F8B1945
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S32@
+2 PAGE Archives New Zealand; Wellington, New Zealand; Series Number: 18805
+1 SOUR @S27@
+2 PAGE 1949
+1 SOUR @S35@
+1 SOUR @S25@
+1 SOUR @S22@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4576
+1 BIRT
+2 DATE 30 JUN 1887
+2 PLAC Luggate, New Zealand
+2 SOUR @S32@
+3 PAGE Archives New Zealand; Wellington, New Zealand; Series Number: 18805
+1 RESI
+2 DATE 1916
+2 PLAC North Otago, New Zealand
+2 SOUR @S35@
+1 RESI
+2 DATE 1949
+2 PLAC Clutha, Otago, New Zealand
+2 SOUR @S27@
+3 PAGE 1949
+1 DEAT
+2 DATE JUL 1977
+2 PLAC Milton Otago New Zealand
+2 SOUR @S22@
+1 BURI
+2 PLAC Otago, New Zealand
+2 SOUR @S22@
+1 FAMS @F20@
+1 FAMC @F13@
+0 @I64@ INDI
+1 NAME Raynor Robert /Collings/
+2 GIVN Raynor Robert
+2 SURN Collings
+1 SEX M
+1 _UID D382710C400646EF856DBA48B0E8FCA075F4
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4577
+1 BIRT
+2 DATE 14 AUG 1891
+2 PLAC Cromwell Central Otago New Zealand
+1 DEAT
+2 DATE 19 MAY 1987
+2 PLAC New Zealand
+1 FAMS @F19@
+1 FAMC @F13@
+0 @I65@ INDI
+1 NAME Cecil Joseph Verner /Collings/
+2 GIVN Cecil Joseph Verner
+2 SURN Collings
+1 SEX M
+1 _UID C3DB78552A5A4DC7B976561D80F61D003870
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S32@
+2 PAGE Archives New Zealand; Wellington, New Zealand; Series Number: 18805
+1 SOUR @S35@
+1 SOUR @S25@
+1 SOUR @S27@
+2 PAGE 1919
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4578
+1 BIRT
+2 DATE 15 AUG 1894
+2 PLAC Luggate, New Zealand
+2 SOUR @S32@
+3 PAGE Archives New Zealand; Wellington, New Zealand; Series Number: 18805
+1 RESI
+2 DATE 1916
+2 PLAC North Otago, New Zealand
+2 SOUR @S35@
+1 RESI
+2 DATE 1919
+2 PLAC Wakatipu, Otago, New Zealand
+2 SOUR @S27@
+3 PAGE 1919
+1 DEAT
+2 DATE 10 OCT 1948
+2 PLAC Timaru, Canterbury, New Zealand
+1 FAMC @F13@
+0 @I66@ INDI
+1 NAME Bertram Charles /Collings/
+2 GIVN Bertram Charles
+2 SURN Collings
+1 SEX M
+1 _UID 698A36EAD8084BB090E71784C61504E7C647
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S33@
+2 PAGE BAB Microfilming
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4579
+1 BIRT
+2 DATE 11 MAY 1884
+2 PLAC Wanaka Central Otago New Zealand
+1 DEAT
+2 CAUS Killed in action
+2 DATE 3 OCT 1917
+2 PLAC WW1. Passchendaele Belguim
+2 SOUR @S33@
+3 PAGE BAB Microfilming
+1 RESI
+2 PLAC New Zealand
+2 SOUR @S33@
+3 PAGE BAB Microfilming
+1 FAMC @F13@
+0 @I67@ INDI
+1 NAME Mary Ann Elizabeth /Brooks/
+2 GIVN Mary Ann Elizabeth
+2 SURN Brooks
+1 SEX F
+1 _UID 55F7951748A64CC1862E4748C91C9304B283
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S24@
+2 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Marriage Records
+1 SOUR @S11@
+1 SOUR @S11@
+1 SOUR @S11@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4580
+1 BIRT
+2 DATE JAN 1842
+2 PLAC Tiverton, Devon, England
+1 BIRT
+2 DATE MAR 1842
+2 PLAC Tiverton, Devon, England
+1 DEAT
+2 DATE 20 AUG 1868
+2 PLAC Central Otago, Otago, New Zealand
+1 FAMS @F15@
+1 FAMC @F16@
+0 @I68@ INDI
+1 NAME James /Chin Chee/
+2 GIVN James
+2 SURN Chin Chee
+1 NAME Chee Bins James /Chin/
+2 GIVN Chee Bins James
+2 SURN Chin
+2 SOUR @S24@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Marriage Records
+1 SEX M
+1 _UID 7FAD327F4592450F90728E7A7E10C04AAA43
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S31@
+2 PAGE Public Record Office of Victoria; North Melbourne, Victoria, Australia; Series Number: VPRS 948
+1 SOUR @S11@
+1 SOUR @S11@
+1 SOUR @S23@
+2 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Birth Records
+1 SOUR @S11@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4581
+1 BIRT
+2 DATE 1832
+2 PLAC Guangzhou, Shunde, Guangdong, China
+1 EVEN
+2 TYPE Departure
+2 DATE OCT 1867
+2 PLAC Victoria, Australia
+2 SOUR @S31@
+3 PAGE Public Record Office of Victoria; North Melbourne, Victoria, Australia; Series Number: VPRS 948
+1 DEAT
+2 DATE 1906
+2 PLAC Public Grave, Springvale, Victoria, Australia
+1 FAMS @F14@
+1 FAMS @F15@
+1 FAMC @F17@
+0 @I69@ INDI
+1 NAME Peter /Chin Chee/
+2 GIVN Peter
+2 SURN Chin Chee
+1 SEX M
+1 _UID FBF087ACE7F34990BB215F416EDA3D693B74
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S23@
+2 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Birth Records
+1 SOUR @S11@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4583
+1 BIRT
+2 DATE 18 AUG 1864
+2 PLAC Aberdeen Hill, Victoria, Australia
+2 SOUR @S23@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Birth Records
+2 SOUR @S11@
+1 DEAT
+2 DATE 18 AUG 1864
+2 PLAC Aberdeen Hill, Victoria, Australia
+1 FAMC @F15@
+0 @I70@ INDI
+1 NAME Edwin James /Chin Chee/
+2 GIVN Edwin James
+2 SURN Chin Chee
+1 SEX M
+1 _UID CA3B4CB15DB0419AA9738B612BB58B4EABDD
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S11@
+1 SOUR @S6@
+1 BIRT
+2 DATE 1862
+2 PLAC Castlemaine, Casterton, Victoria
+2 SOUR @S11@
+2 SOUR @S6@
+1 DEAT
+2 DATE 1864
+2 PLAC Victoria
+2 SOUR @S6@
+1 FAMC @F15@
+0 @I71@ INDI
+1 NAME Letitia Louisa /Chin Chee/
+2 GIVN Letitia Louisa
+2 SURN Chin Chee
+1 SEX F
+1 _UID 8DAE87853476489483B1A996695E2EB4E94C
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S11@
+1 SOUR @S25@
+1 SOUR @S32@
+2 PAGE Archives New Zealand; Wellington, New Zealand; Series Number: 18805
+1 SOUR @S36@
+2 PAGE New Zealand, Death Index, 1848-1966
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4585
+1 BIRT
+2 DATE 3 DEC 1865
+2 PLAC Campbell Creek, Victoria, Australia
+2 SOUR @S11@
+1 DEAT
+2 DATE 21 DEC 1920
+2 PLAC Invercargill, Otago, New Zealand
+2 SOUR @S36@
+3 PAGE New Zealand, Death Index, 1848-1966
+1 FAMS @F18@
+1 FAMC @F15@
+0 @I72@ INDI
+1 NAME Fong Ah Chin /Shee/
+2 GIVN Fong Ah Chin
+2 SURN Shee
+1 SEX F
+1 _UID 60485C8ABDF64DBFA7E951917BA86F4C9DC9
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4586
+1 BIRT
+2 DATE 1815
+2 PLAC Guangzhou, Shunde, Guangdong, China
+1 DEAT
+1 FAMS @F17@
+0 @I73@ INDI
+1 NAME Ah Yen /Chin Chee/
+2 GIVN Ah Yen
+2 SURN Chin Chee
+1 NAME Chin Ah /Yen/
+2 GIVN Chin Ah
+2 SURN Yen
+2 SOUR @S13@
+1 SEX M
+1 _UID 5A2308F29E0A4A17A523F371346BFD9AE299
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S19@
+2 PAGE Series: VPRS 7667; Series Title: Inward Overseas Passenger Lists (Foreign Ports) [Microfiche Copy of VPRS 947]
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4587
+1 BIRT
+2 DATE 1815
+2 PLAC Guangzhou, Shunde, Guangdong, China
+2 SOUR @S19@
+3 PAGE Series: VPRS 7667; Series Title: Inward Overseas Passenger Lists (Foreign Ports) [Microfiche Copy of VPRS 947]
+1 EVEN
+2 TYPE Arrival
+2 DATE 17 JUL 1855
+2 PLAC Port Phillip Bay, Australia
+2 SOUR @S19@
+3 PAGE Series: VPRS 7667; Series Title: Inward Overseas Passenger Lists (Foreign Ports) [Microfiche Copy of VPRS 947]
+1 DEAT
+2 DATE 15 MAY 1867
+2 PLAC New Zealand
+1 RESI
+2 DATE 15 APR 1891
+2 SOUR @S13@
+1 EVEN
+2 TYPE Departure
+2 PLAC Hong Kong
+2 SOUR @S19@
+3 PAGE Series: VPRS 7667; Series Title: Inward Overseas Passenger Lists (Foreign Ports) [Microfiche Copy of VPRS 947]
+1 FAMS @F17@
+0 @I74@ INDI
+1 NAME Grace /Vincent/
+2 GIVN Grace
+2 SURN Vincent
+1 SEX F
+1 _UID 881CCB84ADA54AC3AC50200951D1644D4A2D
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4588
+1 BIRT
+2 DATE 24 SEP 1853
+2 PLAC Gawler Town  South Australia, Australia
+1 DEAT
+2 DATE 26 MAY 1932
+2 PLAC Cheltenham, Victoria, Australia
+1 FAMS @F14@
+0 @I75@ INDI
+1 NAME Rosina Violet Chin /Chee/
+2 GIVN Rosina Violet Chin
+2 SURN Chee
+1 SEX F
+1 _UID 105371F9A8EA409A8ACA2A8E8FB4D566C388
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4589
+1 BIRT
+2 DATE 1880
+2 PLAC Inglewood, Victoria, Australia
+1 DEAT
+2 DATE 10 MAR 1935
+2 PLAC Footscray Cemetery, Victoria, Theodore St, St Albans, Victoria, Aust
+1 FAMC @F14@
+0 @I76@ INDI
+1 NAME Charles Frederick Chin /Chee/
+2 GIVN Charles Frederick Chin
+2 SURN Chee
+1 SEX M
+1 _UID 06BAD6C3EC00471ABB9B52079B2F9520D408
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4590
+1 BIRT
+2 DATE 1885
+2 PLAC Inglewood, Victoria, Australia
+1 DEAT
+2 DATE 1906
+2 PLAC Inglewood, Victoria, Australia
+1 FAMC @F14@
+0 @I77@ INDI
+1 NAME Harold Edward Chin /Chee/
+2 GIVN Harold Edward Chin
+2 SURN Chee
+1 SEX M
+1 _UID A49DD28E3B8849DAB572A5D5E79C52A5A2CB
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4591
+1 BIRT
+2 DATE 1894
+2 PLAC Inglewood, Victoria, Australia
+1 DEAT
+2 DATE 1960
+2 PLAC Fitzroy, Victoria, Australia
+1 FAMC @F14@
+0 @I78@ INDI
+1 NAME Isabella /Chin Chee/
+2 GIVN Isabella
+2 SURN Chin Chee
+1 SEX F
+1 _UID 2A2242EE68B847CF8778A115C28374C9E916
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4592
+1 BIRT
+2 DATE 1882
+2 PLAC St Albans, Victoria, Australia
+1 DEAT
+2 DATE 1959
+2 PLAC Launceston, Tasmania, Australia
+1 FAMC @F14@
+0 @I79@ INDI
+1 NAME James /Chin Chee/
+2 GIVN James
+2 SURN Chin Chee
+1 SEX M
+1 _UID 56E6A94671AA447CBB6A537334E3AC590D5D
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4593
+1 BIRT
+2 DATE 1878
+2 PLAC Inglewood, Victoria, Australia
+1 DEAT
+2 DATE 1882
+2 PLAC Ballarat, Victoria, Australia
+1 FAMC @F14@
+0 @I80@ INDI
+1 NAME Thomas Henry Wah /Chin Chee/
+2 GIVN Thomas Henry Wah
+2 SURN Chin Chee
+1 SEX M
+1 _UID 35788FABAC35452E881F65FEC7CF388C9F72
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4594
+1 BIRT
+2 DATE 1875
+2 PLAC Smythesdale, Victoria, Australia
+1 DEAT
+2 DATE 1966
+2 PLAC Fairfield, Victoria
+1 FAMC @F14@
+0 @I81@ INDI
+1 NAME Albert Ernest /Chee/
+2 GIVN Albert Ernest
+2 SURN Chee
+1 SEX M
+1 _UID 748ECF9C60434317B8EAD735B92AAA4FF4DC
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4595
+1 BIRT
+2 DATE 1872
+2 PLAC Cheltenham, Victoria
+1 DEAT
+2 DATE 1955
+2 PLAC Wanthaggi, Vivtoria
+1 FAMC @F14@
+0 @I82@ INDI
+1 NAME Unknown /Chin Chee/
+2 GIVN Unknown
+2 SURN Chin Chee
+1 SEX F
+1 _UID 736C4951B9464A7787B768DDDD6B4B99E83E
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4596
+1 BIRT
+2 DATE 18 AUG 1868
+2 PLAC Alexandra, Central Otaga, New Zealand
+1 DEAT
+2 DATE 19 AUG 1868
+2 PLAC Alexandra, Central Otanga, New Zealand
+1 FAMC @F15@
+0 @I83@ INDI
+1 NAME Living
+1 SEX M
+1 _UID 444D3507D3164FD6A66C15A018C3B875AAC6
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F16@
+0 @I84@ INDI
+1 NAME Sarah /Moore/
+2 GIVN Sarah
+2 SURN Moore
+1 SEX F
+1 _UID 3252B09E59F943AD94462EDFDCF22CDBD098
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S6@
+1 BIRT
+2 DATE 1811
+2 PLAC Bampton, Devon, England
+2 SOUR @S6@
+1 DEAT
+2 DATE 28 AUG 1892
+2 PLAC Axedale, Victoria, Australia
+2 SOUR @S6@
+1 FAMS @F16@
+1 FAMC @F35@
+0 @I85@ INDI
+1 NAME Betty /Bowden/
+2 GIVN Betty
+2 SURN Bowden
+1 SEX F
+1 _UID 3A07FCD859D44395BC980F0C22E6022CBFF4
+1 CHAN
+2 DATE 9 JUN 2019
+1 BIRT
+2 DATE 1785
+2 PLAC England, United Kingdom
+1 DEAT Y
+1 FAMS @F35@
+0 @I86@ INDI
+1 NAME James Francis /Moore/
+2 GIVN James Francis
+2 SURN Moore
+1 SEX M
+1 _UID A0328FF281494EBC89A547C497B7FD08B3AD
+1 CHAN
+2 DATE 9 JUN 2019
+1 BIRT
+2 DATE 1785
+2 PLAC England, United Kingdom
+1 DEAT
+2 PLAC England, United Kingdom
+1 FAMS @F35@
+0 @I87@ INDI
+1 NAME Living
+1 SEX M
+1 _UID FE59E9D25FEE47F48F89767E19F5F019BD34
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F18@
+0 @I88@ INDI
+1 NAME Living
+1 SEX F
+1 _UID 9A7743B126A14BAF916FF2AC2D114D716093
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F19@
+0 @I89@ INDI
+1 NAME Living
+1 SEX F
+1 _UID A583AB26743345F9BF16DFB1B87EFE80F770
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F20@
+0 @I90@ INDI
+1 NAME Living
+1 SEX F
+1 _UID 775913B76F034133BE5DF8451F7549813638
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F21@
+0 @I91@ INDI
+1 NAME Mary Anne /Ballantyne/
+2 GIVN Mary Anne
+2 SURN Ballantyne
+1 SEX F
+1 _UID EE8CC434105B445A875EC5B0985BFF21E853
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S30@
+2 PAGE New Zealand, Birth Index, 1840-1950
+1 BIRT
+2 DATE JAN 1885
+2 PLAC Cromwell, New Zealand
+2 SOUR @S30@
+3 PAGE New Zealand, Birth Index, 1840-1950
+1 DEAT
+2 DATE 1966
+2 PLAC New Zealand
+1 FAMS @F22@
+0 @I92@ INDI
+1 NAME Living
+1 SEX F
+1 _UID C7986430FD9745E7881196EB1999586B4286
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F23@
+0 @I93@ INDI
+1 NAME Living
+1 SEX M
+1 _UID FBC25DECDD0D465282DE8B829C6C2E436EEA
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F27@
+0 @I94@ INDI
+1 NAME Living
+1 SEX F
+1 _UID 5D9BC39C8FB04EF2AD0BA536EF0253A451FA
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F24@
+0 @I95@ INDI
+1 NAME Living
+1 SEX M
+1 _UID A693715EFF154C5BB9CCACFAF2BCC03490ED
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F25@
+0 @I96@ INDI
+1 NAME Michael James /O'Connor/
+2 GIVN Michael James
+2 SURN O'Connor
+1 SEX M
+1 _UID 1068D97E330741759D9E344ACC8FD7923CB5
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 DEAT
+2 DATE 24 OCT 1961
+1 FAMS @F26@
+0 @I97@ INDI
+1 NAME Charles /Price/
+2 GIVN Charles
+2 SURN Price
+1 SEX M
+1 _UID 1BA25F6882C141658507BCF7246F2F4EBC3F
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 BIRT
+2 DATE 1874
+2 PLAC New Zealand
+1 DEAT
+2 DATE 1899
+1 FAMS @F33@
+1 FAMC @F32@
+0 @I98@ INDI
+1 NAME Mary /Gibson/
+2 GIVN Mary
+2 SURN Gibson
+1 SEX F
+1 _UID B426BC38E5064A0CBE71E217FB101B318E31
+1 CHAN
+2 DATE 9 JUN 2019
+1 BIRT
+2 DATE 27 OCT 1819
+2 PLAC Down, Northern Ireland
+1 DEAT
+2 DATE 19 MAY 1896
+2 PLAC Comber, Down, Ireland
+1 FAMS @F45@
+0 @I99@ INDI
+1 NAME John /Price/
+2 GIVN John
+2 SURN Price
+1 SEX M
+1 _UID C4E6E1EE400F4663A18FE3903926D31E6427
+1 CHAN
+2 DATE 9 JUN 2019
+1 BIRT
+2 DATE 1815
+2 PLAC County Down, Ireland
+1 DEAT
+2 DATE 7 JUN 1898
+2 PLAC Down
+1 FAMS @F45@
+0 @I100@ INDI
+1 NAME Elizabeth 'Bessie' /Cormack/
+2 GIVN Elizabeth 'Bessie'
+2 SURN Cormack
+1 SEX F
+1 _UID 9E06BAD63C9B42C2973ED884BB4FB0D3CD3D
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4832
+1 BIRT
+2 DATE ABT 1810
+2 PLAC Ireland
+1 DEAT
+2 DATE 3 APR 1847
+2 PLAC County Cavan, Ireland
+1 FAMS @F44@
+0 @I101@ INDI
+1 NAME Peter /O'REILLY/
+2 GIVN Peter
+2 SURN O'REILLY
+1 SEX M
+1 _UID B273FF38D5E6413C95D5C2156809DA94B49E
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4833
+1 BIRT
+2 DATE ABT 1807
+2 PLAC Cavan, Ireland
+1 DEAT
+2 DATE 25 FEB 1883
+2 PLAC Taghart, Shercock, County Cavan, Ireland
+1 FAMS @F44@
+1 FAMC @F50@
+0 @I102@ INDI
+1 NAME George Edward /Pain/
+2 GIVN George Edward
+2 SURN Pain
+1 SEX M
+1 _UID DC20C4E51D78425C917C3E72D2B99D22DFB6
+1 CHAN
+2 DATE 9 JUN 2019
+1 BIRT
+2 DATE 1878
+1 DEAT
+2 DATE 1946
+1 FAMS @F43@
+0 @I103@ INDI
+1 NAME William Stephen "Bill" /Minehan/
+2 GIVN William Stephen "Bill"
+2 SURN Minehan
+1 SEX M
+1 _UID 8E5313F30364427899D26433D454AD32110F
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S25@
+1 SOUR @S12@
+1 BIRT
+2 DATE 17 JAN 1893
+2 PLAC New Zealand
+2 SOUR @S12@
+1 DEAT
+2 DATE 23 SEP 1969
+2 PLAC New Zealand
+2 SOUR @S12@
+1 BURI
+2 PLAC Timaru, Timaru District, Canterbury, New Zealand
+2 SOUR @S12@
+1 FAMS @F34@
+0 @I104@ INDI
+1 NAME Anna Maria Benvenuta Guiseppa Giovanna Filippa /Collings/
+2 GIVN Anna Maria Benvenuta Guiseppa Giovanna Filippa
+2 SURN Collings
+1 SEX F
+1 _UID 710AB1659326404CB5F29E8430630C3D7BF3
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4855
+1 BIRT
+2 DATE 1833
+2 PLAC Malta
+1 DEAT
+2 DATE 1837
+2 PLAC Malta
+1 FAMC @F36@
+0 @I105@ INDI
+1 NAME Henry /Collings/
+2 GIVN Henry
+2 SURN Collings
+1 SEX M
+1 _UID 455C59543DE747E5B68D02009B6841E0070F
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4856
+1 BIRT
+2 DATE 1838
+2 PLAC Surrey South Western, Surrey, England
+1 DEAT
+2 DATE 1839
+2 PLAC Surrey South Western, Surrey, England
+1 FAMC @F36@
+0 @I106@ INDI
+1 NAME Joseph Beckett Edmund /Collings/
+2 GIVN Joseph Beckett Edmund
+2 SURN Collings
+1 SEX M
+1 _UID 4AE558D2A8F948D998BB94501617DA3A93F9
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S7@
+2 PAGE Class: RG 9; Piece: 461; Folio: 75; Page: 7; GSU roll: 542642
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 1573; Folio: 251; Page: 22; GSU roll: 174808-174809
+1 SOUR @S17@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4857
+1 BIRT
+2 DATE 1843
+2 PLAC Lambeth, Surrey, England
+2 SOUR @S7@
+3 PAGE Class: RG 9; Piece: 461; Folio: 75; Page: 7; GSU roll: 542642
+1 BIRT
+2 DATE 1843
+2 PLAC Newington, Surrey, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 1573; Folio: 251; Page: 22; GSU roll: 174808-174809
+1 RESI Relationship: Son
+2 DATE 1851
+2 PLAC Lambeth, Surrey, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 1573; Folio: 251; Page: 22; GSU roll: 174808-174809
+1 RESI Relationship: Son
+2 DATE 1861
+2 PLAC Mortlake, Surrey, England
+2 SOUR @S7@
+3 PAGE Class: RG 9; Piece: 461; Folio: 75; Page: 7; GSU roll: 542642
+1 DEAT
+2 DATE 21 MAY 1923
+2 PLAC Middlesex, England
+2 SOUR @S17@
+1 PROB
+2 DATE 7 JUN 1923
+2 PLAC London, England
+2 SOUR @S17@
+1 FAMC @F36@
+0 @I107@ INDI
+1 NAME Charlotte Matilda Alice /Collings/
+2 GIVN Charlotte Matilda Alice
+2 SURN Collings
+1 SEX F
+1 _UID 19E7EEC4514B4F859D8A9B4FA26D13479CF0
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 1573; Folio: 251; Page: 22; GSU roll: 174808-174809
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4858
+1 BIRT
+2 DATE 1847
+2 PLAC Lambeth, London, England
+1 BIRT
+2 DATE ABT 1848
+2 PLAC Newington, Surrey, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 1573; Folio: 251; Page: 22; GSU roll: 174808-174809
+1 RESI Relationship: Daughter
+2 DATE 1851
+2 PLAC Lambeth, Surrey, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 1573; Folio: 251; Page: 22; GSU roll: 174808-174809
+1 DEAT
+2 DATE 18 MAR 1930
+2 PLAC Denbighshire, Wales, England
+1 FAMC @F36@
+0 @I108@ INDI
+1 NAME Frederick Spencer /Collings/
+2 GIVN Frederick Spencer
+2 SURN Collings
+1 SEX M
+1 _UID F7FB5AC2A7A04C79A3D1465C479C88730E8A
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4859
+1 BIRT
+2 DATE 1840
+1 DEAT
+2 DATE 1841
+1 FAMC @F36@
+0 @I109@ INDI
+1 NAME Charles H.J. /Collings/
+2 GIVN Charles H.J.
+2 SURN Collings
+1 SEX M
+1 _UID 025FD76F57754A8C9E0A32D5A7F4F2FD82E5
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 1573; Folio: 251; Page: 22; GSU roll: 174808-174809
+1 SOUR @S4@
+2 PAGE Class: RG13; Piece: 1001; Folio: 85; Page: 27
+1 SOUR @S5@
+2 PAGE Class: RG11; Piece: 1150; Folio: 74; Page: 20; GSU roll: 1341281
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4860
+1 BIRT
+2 DATE ABT 1840
+2 PLAC Malta
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 1573; Folio: 251; Page: 22; GSU roll: 174808-174809
+2 SOUR @S4@
+3 PAGE Class: RG13; Piece: 1001; Folio: 85; Page: 27
+2 SOUR @S5@
+3 PAGE Class: RG11; Piece: 1150; Folio: 74; Page: 20; GSU roll: 1341281
+1 RESI Relationship: Son
+2 DATE 1851
+2 PLAC Lambeth, Surrey, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 1573; Folio: 251; Page: 22; GSU roll: 174808-174809
+1 RESI Marital Status: MarriedRelationship to Head: Head
+2 DATE 1881
+2 PLAC Portsmouth, Hampshire, England
+2 SOUR @S5@
+3 PAGE Class: RG11; Piece: 1150; Folio: 74; Page: 20; GSU roll: 1341281
+1 RESI Relation to Head of House: Head
+2 DATE 1901
+2 PLAC Portsmouth, Hampshire, England
+2 SOUR @S4@
+3 PAGE Class: RG13; Piece: 1001; Folio: 85; Page: 27
+1 DEAT
+2 DATE 5 SEP 1925
+2 PLAC Paddington, London, United Kingdom
+1 FAMS @F39@
+1 FAMC @F36@
+0 @I110@ INDI
+1 NAME Mary A /Collings/
+2 GIVN Mary A
+2 SURN Collings
+1 SEX F
+1 _UID 4B06A02D73574C958CADAEC5090BDB86EAF2
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 1573; Folio: 250; Page: 21; GSU roll: 174808-174809
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4861
+1 BIRT
+2 DATE ABT 1836
+2 PLAC Lambeth, Surrey, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 1573; Folio: 250; Page: 21; GSU roll: 174808-174809
+1 RESI Relationship: Daughter
+2 DATE 1851
+2 PLAC Lambeth, Surrey, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 1573; Folio: 250; Page: 21; GSU roll: 174808-174809
+1 DEAT
+2 DATE 23 JAN 1916
+2 PLAC London, England
+1 FAMC @F36@
+0 @I111@ INDI
+1 NAME Robert George Joseph Thomas /Collings/
+2 GIVN Robert George Joseph Thomas
+2 SURN Collings
+1 SEX M
+1 _UID 54EF0DD4F23C4F0BA876D339E06E3849A52C
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S7@
+2 PAGE Class: RG 9; Piece: 461; Folio: 75; Page: 7; GSU roll: 542642
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 1573; Folio: 251; Page: 22; GSU roll: 174808-174809
+1 SOUR @S39@
+2 PAGE Surrey History Centre; Woking, Surrey, England; Surrey Church of England Parish Registers; Reference Number: 6060/1/8
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4862
+1 BIRT
+2 DATE OCT 1837
+2 PLAC Lambeth, Surrey, England
+2 SOUR @S7@
+3 PAGE Class: RG 9; Piece: 461; Folio: 75; Page: 7; GSU roll: 542642
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 1573; Folio: 251; Page: 22; GSU roll: 174808-174809
+1 RESI Relationship: Son
+2 DATE 1851
+2 PLAC Lambeth, Surrey, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 1573; Folio: 251; Page: 22; GSU roll: 174808-174809
+1 RESI Relationship: Son
+2 DATE 1861
+2 PLAC Mortlake, Surrey, England
+2 SOUR @S7@
+3 PAGE Class: RG 9; Piece: 461; Folio: 75; Page: 7; GSU roll: 542642
+1 DEAT
+2 DATE 16 MAR 1922
+2 PLAC Portsmouth, Hampshire, England
+1 FAMS @F37@
+1 FAMC @F36@
+0 @I112@ INDI
+1 NAME Louisa /Collings/
+2 GIVN Louisa
+2 SURN Collings
+1 SEX F
+1 _UID 7C69598A71804B3CAF8B0CCB23C3F97EAE66
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S8@
+2 PAGE Class: HO107; Piece: 1573; Folio: 251; Page: 22; GSU roll: 174808-174809
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4863
+1 BIRT
+2 DATE ABT 1842
+2 PLAC Newington, Surrey, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 1573; Folio: 251; Page: 22; GSU roll: 174808-174809
+1 RESI Relationship: Daughter
+2 DATE 1851
+2 PLAC Lambeth, Surrey, England
+2 SOUR @S8@
+3 PAGE Class: HO107; Piece: 1573; Folio: 251; Page: 22; GSU roll: 174808-174809
+1 DEAT
+2 DATE MAR 1929
+2 PLAC Islington, Greater London, England
+1 FAMC @F36@
+0 @I113@ INDI
+1 NAME Benvenuta /Pulis/
+2 GIVN Benvenuta
+2 SURN Pulis
+1 SEX F
+1 _UID 2CC45D8930CF4E028E0B49A1956E7476951E
+1 CHAN
+2 DATE 9 JUN 2019
+1 BIRT
+2 PLAC Valletta, Malta
+1 DEAT
+2 PLAC Malta
+1 FAMS @F40@
+0 @I114@ INDI
+1 NAME George /Sapiano/
+2 GIVN George
+2 SURN Sapiano
+1 SEX M
+1 _UID CDE446BAC4F94EA18649AE86EF568B73A332
+1 CHAN
+2 DATE 9 JUN 2019
+1 BIRT
+2 PLAC Valletta, Malta
+1 DEAT
+2 PLAC Malta
+1 FAMS @F40@
+0 @I115@ INDI
+1 NAME Ann Millicent /Leane/
+2 GIVN Ann Millicent
+2 SURN Leane
+1 SEX F
+1 _UID 5C76C8C830914C28B6A5267A6676933A3B70
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4866
+1 BIRT
+2 DATE 1768
+2 PLAC Gosport, Hampshire, England
+1 DEAT
+2 DATE 1823
+2 PLAC Malta
+1 FAMS @F38@
+0 @I116@ INDI
+1 NAME Thomas /Collings/
+2 GIVN Thomas
+2 SURN Collings
+1 SEX M
+1 _UID EE70BF6D456446CB8788DEBE190F45308CF7
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4867
+1 BIRT
+2 DATE 9 JUN 1765
+2 PLAC Surrey
+1 DEAT
+2 DATE 1826
+2 PLAC Malta
+1 FAMS @F38@
+0 @I117@ INDI
+1 NAME Living
+1 SEX F
+1 _UID 26F87C5C434942D18184C0D0CD78CCEB26E3
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F37@
+0 @I118@ INDI
+1 NAME Rebecca Mary Ann /Collings/
+2 GIVN Rebecca Mary Ann
+2 SURN Collings
+1 SEX F
+1 _UID 0A19163E485B47CCA5BC5AA6B8F1EB7EA059
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4869
+1 BIRT
+2 DATE 25 MAY 1791
+2 PLAC Alversoke, Gosport, Hampshire, England
+1 DEAT
+2 DATE 18 SEP 1791
+2 PLAC Alverstoke, Gosport, Hampshire, England
+1 FAMC @F38@
+0 @I119@ INDI
+1 NAME Ann Millicent /Collings/
+2 GIVN Ann Millicent
+2 SURN Collings
+1 SEX F
+1 _UID DE9E4E658307431E804BA8EAB8ECEA2227CD
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4870
+1 BIRT
+2 DATE AUG 1792
+2 PLAC Gosport, Hampshire, England
+1 DEAT
+2 DATE JAN 1880
+2 PLAC Fulham, London, England
+1 FAMC @F38@
+0 @I120@ INDI
+1 NAME Joseph Beckett /Collings/
+2 GIVN Joseph Beckett
+2 SURN Collings
+1 SEX M
+1 _UID DF88EE6A6AE74437989AD9B2D4E13C77B032
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4871
+1 BIRT
+2 DATE 1795
+2 PLAC Gosport, Hampshire, England
+1 DEAT
+2 DATE 6 FEB 1866
+2 PLAC Malling, Kent, England
+1 FAMC @F38@
+0 @I121@ INDI
+1 NAME William /Collings/
+2 GIVN William
+2 SURN Collings
+1 SEX M
+1 _UID 95E3A0A339134AC496E9E863E8B34715D6B3
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4872
+1 BIRT
+2 DATE 1803
+2 PLAC Alverstoke, Hampshire, England
+1 DEAT
+2 DATE 1864
+2 PLAC Malta
+1 FAMC @F38@
+0 @I122@ INDI
+1 NAME Henry /Collings/
+2 GIVN Henry
+2 SURN Collings
+1 SEX M
+1 _UID 11C71FBF4BC5487DB09B726F098045048914
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4873
+1 BIRT
+2 DATE 1808
+1 DEAT
+2 DATE 1835
+1 FAMC @F38@
+0 @I123@ INDI
+1 NAME Edmund /Collings/
+2 GIVN Edmund
+2 SURN Collings
+1 SEX M
+1 _UID 4A95D6735A874CDC9FD219EBEDB961C976EC
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4874
+1 BIRT
+2 DATE 1801
+2 PLAC Gosport, Hampshire, England
+1 DEAT
+2 DATE 1860
+2 PLAC South Stoneham, Hampshire
+1 FAMC @F38@
+0 @I124@ INDI
+1 NAME Catherine /Collings/
+2 GIVN Catherine
+2 SURN Collings
+1 SEX F
+1 _UID 0EC81FDAD18F463B8D85B5F68F357B3CE840
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S4@
+2 PAGE Class: RG13; Piece: 1001; Folio: 85; Page: 27
+1 SOUR @S5@
+2 PAGE Class: RG11; Piece: 1150; Folio: 74; Page: 20; GSU roll: 1341281
+1 BIRT
+2 DATE ABT 1841
+2 PLAC Chelmsford, Essex, England
+2 SOUR @S4@
+3 PAGE Class: RG13; Piece: 1001; Folio: 85; Page: 27
+2 SOUR @S5@
+3 PAGE Class: RG11; Piece: 1150; Folio: 74; Page: 20; GSU roll: 1341281
+1 RESI Marital Status: MarriedRelationship to Head: Wife
+2 DATE 1881
+2 PLAC Portsmouth, Hampshire, England
+2 SOUR @S5@
+3 PAGE Class: RG11; Piece: 1150; Folio: 74; Page: 20; GSU roll: 1341281
+1 RESI Relation to Head of House: Wife
+2 DATE 1901
+2 PLAC Portsmouth, Hampshire, England
+2 SOUR @S4@
+3 PAGE Class: RG13; Piece: 1001; Folio: 85; Page: 27
+1 DEAT Y
+1 FAMS @F39@
+0 @I125@ INDI
+1 NAME Living
+1 SEX F
+1 _UID 912490C11529467E9A6CA51A4D8776576EF2
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F41@
+0 @I126@ INDI
+1 NAME Living
+1 SEX M
+1 _UID 5B00F1C7827D4A1DA162EBAD3407D67499F7
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F42@
+0 @I127@ INDI
+1 NAME Ellen /Rice/
+2 GIVN Ellen
+2 SURN Rice
+1 SEX F
+1 _UID 1853607D5B304E97958835B53766C46C8CCE
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4909
+1 BIRT
+2 DATE ABT 1781
+2 PLAC Ireland
+1 DEAT
+2 DATE 1861
+2 PLAC Ireland
+1 FAMS @F50@
+0 @I128@ INDI
+1 NAME James /O'Reilly/
+2 GIVN James
+2 SURN O'Reilly
+1 SEX M
+1 _UID BB56013D4F2948DA81CAA3EBF27E1C045247
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4910
+1 BIRT
+2 DATE ABT 1774
+2 PLAC County Cavan, Ireland
+1 DEAT
+2 DATE 1830
+2 PLAC Ireland
+1 FAMS @F50@
+0 @I129@ INDI
+1 NAME Catherine 'Kate' /O'Reilly/
+2 GIVN Catherine 'Kate'
+2 SURN O'Reilly
+1 SEX F
+1 _UID 8590DC19CB60457DA52563C4419837958DE8
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4911
+1 BIRT
+2 DATE ABT 1853
+2 PLAC County Cavan, Ireland
+1 DEAT
+2 DATE 6 FEB 1916
+2 PLAC Valley Junction, Iowa
+1 FAMC @F44@
+0 @I130@ INDI
+1 NAME Peter /O'Reilly/
+2 GIVN Peter
+2 SURN O'Reilly
+1 SEX M
+1 _UID 3D47C8A8577F4FB89BBEAF6A2749AA54B1DD
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4912
+1 BIRT
+2 DATE SEP 1852
+2 PLAC County Cavan, Ireland
+1 DEAT
+2 DATE 1918
+1 FAMC @F44@
+0 @I131@ INDI
+1 NAME James /O'Reilly/
+2 GIVN James
+2 SURN O'Reilly
+1 SEX M
+1 _UID 5BCE0F7DCC444F4191C4E0D3C3D695931E56
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4913
+1 BIRT
+2 DATE 4 FEB 1837
+2 PLAC County Cavan, Ireland
+1 DEAT
+2 DATE 5 JUL 1919
+2 PLAC Buried Coburg Cemetery
+1 FAMC @F44@
+0 @I132@ INDI
+1 NAME Patrick /O'Reilly/
+2 GIVN Patrick
+2 SURN O'Reilly
+1 SEX M
+1 _UID BB752F67229842FA989AAA5459BC8971FB87
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4914
+1 BIRT
+2 DATE ABT 1839
+2 PLAC County Cavan, Ireland
+1 DEAT
+2 DATE ABT 1846
+2 PLAC County Cavan, Ireland
+1 FAMC @F44@
+0 @I133@ INDI
+1 NAME Owen /O'Reilly/
+2 GIVN Owen
+2 SURN O'Reilly
+1 SEX M
+1 _UID 3F7EDDB8DF734991A457F15F14761D2F9F35
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4915
+1 BIRT
+2 DATE 1842
+2 PLAC Ireland
+1 DEAT
+2 DATE 4 MAR 1910
+2 PLAC Kingscourt, Enniskeen, County Cavan, Ireland
+1 FAMC @F44@
+0 @I134@ INDI
+1 NAME Ellen Louisa /OReilly/
+2 GIVN Ellen Louisa
+2 SURN OReilly
+1 SEX F
+1 _UID F8627E79A89640E2BA44BF2527F222E9B789
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4916
+1 BIRT
+2 DATE 26 APR 1845
+2 PLAC Kingscourt, 5296, Ireland
+1 DEAT
+2 DATE 4 OCT 1891
+2 PLAC Brunswick, Victoria, Australia,
+1 FAMC @F44@
+0 @I135@ INDI
+1 NAME Ann /Wilson/
+2 GIVN Ann
+2 SURN Wilson
+1 SEX F
+1 _UID F8A3E7E76E0C4BE2984AC347C9A758793DF3
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S10@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4917
+1 BIRT
+2 DATE 1 MAY 1746
+2 PLAC Clapham, Yorkshire
+1 DEAT
+2 DATE 7 APR 1822
+2 PLAC Kingwood, Hunterdon, New Jersey, USA
+1 RESI
+2 PLAC Clapham, York, England
+2 SOUR @S10@
+1 FAMS @F47@
+0 @I136@ INDI
+1 NAME Robert /Leeming/
+2 GIVN Robert
+2 SURN Leeming
+1 SEX M
+1 _UID FD2CC9D54AEF4D7286B36C939BAE30ED5D33
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S14@
+1 SOUR @S40@
+2 PAGE Yorkshire Parish Register Section; Leeds, England, United Kingdom; Ingleton and Chapel-Le-Dale churches 1607-1812
+1 SOUR @S16@
+1 SOUR @S10@
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4918
+1 BIRT
+2 DATE ABT 1745
+2 PLAC Eavestone, Yorkshire, England
+1 DEAT
+2 DATE 1784
+2 PLAC Ingleton, Yorkshire, England
+2 SOUR @S16@
+1 BURI
+2 DATE 1 JAN 1784
+2 PLAC Clapham, York, England
+2 SOUR @S16@
+1 RESI
+2 PLAC Clapham, York, England
+2 SOUR @S10@
+1 FAMS @F47@
+1 FAMS @F48@
+0 @I137@ INDI
+1 NAME Edmund /Leeming/
+2 GIVN Edmund
+2 SURN Leeming
+1 SEX M
+1 _UID 055CE3672C8E4F0AA37F7EBAB6DDA32B79FA
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4919
+1 BIRT
+2 DATE 26 MAR 1775
+2 PLAC Ingleton, Yorkshire, England
+1 DEAT
+2 DATE BY 1841
+1 FAMC @F47@
+0 @I138@ INDI
+1 NAME Robert /Leeming/
+2 GIVN Robert
+2 SURN Leeming
+1 SEX M
+1 _UID F498CE55CE2F4D57969B4253D492A66D8F52
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4920
+1 BIRT
+2 DATE 1768
+2 PLAC Yorkshire, England
+1 DEAT Y
+1 FAMC @F47@
+0 @I139@ INDI
+1 NAME Peter Edmundson /Leeming/
+2 GIVN Peter Edmundson
+2 SURN Leeming
+1 SEX M
+1 _UID C3A1B0C3F4E749219DB40E505ED886BF4609
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4921
+1 BIRT
+2 DATE 14 MAR 1769
+2 PLAC Clapham, Yorkshire, England
+1 DEAT
+2 DATE 5 FEB 1770
+1 FAMC @F47@
+0 @I140@ INDI
+1 NAME Betty /Leeming/
+2 GIVN Betty
+2 SURN Leeming
+1 SEX F
+1 _UID BABCCBF12D5444CEAB113A341EFDC51DECDE
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S40@
+2 PAGE Yorkshire Parish Register Section; Leeds, England, United Kingdom; Ingleton and Chapel-Le-Dale churches 1607-1812
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4922
+1 BIRT
+2 DATE 23 FEB 1777
+2 PLAC Ingleton, Yorkshire, England
+1 BAPM
+2 DATE 23 FEB 1777
+2 PLAC Yorkshire, England
+2 SOUR @S40@
+3 PAGE Yorkshire Parish Register Section; Leeds, England, United Kingdom; Ingleton and Chapel-Le-Dale churches 1607-1812
+1 DEAT
+2 DATE 1793
+2 PLAC Ingleton
+1 FAMC @F47@
+0 @I141@ INDI
+1 NAME John /Leeming/
+2 GIVN John
+2 SURN Leeming
+1 SEX M
+1 _UID 4A15AE88108C49629C7C383A4E9AE7EB20CC
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4923
+1 BIRT
+2 DATE 10 MAR 1771
+2 PLAC Clapham, York, England
+1 DEAT Y
+1 FAMC @F47@
+0 @I142@ INDI
+1 NAME Dinah /Leeming/
+2 GIVN Dinah
+2 SURN Leeming
+1 SEX F
+1 _UID B5D6BEE1DA96450AAA2007D4E14EA0FC5989
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4924
+1 BIRT
+2 DATE 4 DEC 1772
+2 PLAC Clapham, Yorkshire, England
+1 DEAT
+2 DATE FEB 1864
+2 PLAC East, Yorkshire, , England
+1 FAMC @F47@
+0 @I143@ INDI
+1 NAME Rebecca /Edmundson/
+2 GIVN Rebecca
+2 SURN Edmundson
+1 SEX F
+1 _UID 6740B3C4C7A74502B52833E4B632FCCB76CA
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4925
+1 DEAT
+2 DATE ABT 1799
+1 FAMS @F48@
+0 @I144@ INDI
+1 NAME Charles /O'Reilly/
+2 GIVN Charles
+2 SURN O'Reilly
+1 SEX M
+1 _UID 46B9C0BB67C94001B9E0FEAD5ED114FA6C80
+1 CHAN
+2 DATE 9 JUN 2019
+1 SOUR @S2@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=4579281&pid=4941
+1 BIRT
+2 DATE ABT 1800
+2 PLAC Ireland
+1 DEAT
+2 DATE 1886
+2 PLAC Ireland, Age 86
+1 FAMC @F50@
+0 @I145@ INDI
+1 NAME Living
+1 SEX F
+1 _UID F46EF6F13C4B4C9EAC603BC4358A12D66C94
+1 CHAN
+2 DATE 9 JUN 2019
+1 FAMS @F51@
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I4@
+1 CHIL @I3@
+0 @F2@ FAM
+1 HUSB @I2@
+1 WIFE @I1@
+0 @F3@ FAM
+1 HUSB @I6@
+1 WIFE @I5@
+1 CHIL @I8@
+1 CHIL @I2@
+1 CHIL @I7@
+1 CHIL @I9@
+1 CHIL @I10@
+1 MARR
+2 DATE 1929
+2 PLAC Canterbury, New Zealand
+2 SOUR @S25@
+0 @F4@ FAM
+1 HUSB @I3@
+1 WIFE @I15@
+0 @F5@ FAM
+1 HUSB @I11@
+1 WIFE @I12@
+1 CHIL @I16@
+1 CHIL @I6@
+1 CHIL @I17@
+1 MARR
+2 DATE 1898
+2 PLAC New Zealand
+2 SOUR @S25@
+0 @F6@ FAM
+1 HUSB @I16@
+1 WIFE @I22@
+0 @F7@ FAM
+1 HUSB @I16@
+1 WIFE @I23@
+0 @F8@ FAM
+1 HUSB @I20@
+1 WIFE @I21@
+1 CHIL @I32@
+1 CHIL @I31@
+1 CHIL @I30@
+1 CHIL @I11@
+1 CHIL @I29@
+1 CHIL @I26@
+1 CHIL @I33@
+1 CHIL @I24@
+1 CHIL @I28@
+1 CHIL @I25@
+1 CHIL @I27@
+1 MARR
+2 DATE 28 JUN 1862
+2 PLAC Burnley, Lancashire, England
+0 @F9@ FAM
+1 HUSB @I35@
+1 WIFE @I34@
+1 CHIL @I42@
+1 CHIL @I41@
+1 CHIL @I20@
+1 CHIL @I40@
+1 CHIL @I39@
+1 CHIL @I38@
+1 MARR
+2 DATE 29 AUG 1830
+2 PLAC Padiham, Lancashire, England
+2 SOUR @S15@
+3 PAGE Place: Padiham, Lancashire, England; Date Range: 1793 - 1839; Film Number: 1040343
+2 SOUR @S10@
+0 @F10@ FAM
+1 HUSB @I32@
+1 WIFE @I45@
+1 MARR
+2 DATE 1895
+2 PLAC New Zealand
+2 SOUR @S25@
+0 @F11@ FAM
+1 HUSB @I30@
+1 WIFE @I47@
+0 @F12@ FAM
+1 HUSB @I26@
+1 WIFE @I50@
+1 MARR
+2 DATE 1897
+2 PLAC New Zealand
+2 SOUR @S25@
+0 @F13@ FAM
+1 HUSB @I14@
+1 WIFE @I13@
+1 CHIL @I60@
+1 CHIL @I66@
+1 CHIL @I58@
+1 CHIL @I63@
+1 CHIL @I64@
+1 CHIL @I65@
+1 CHIL @I62@
+1 CHIL @I61@
+1 CHIL @I57@
+1 CHIL @I56@
+1 CHIL @I55@
+1 CHIL @I54@
+1 CHIL @I5@
+1 CHIL @I59@
+1 MARR
+2 DATE 1881
+2 PLAC New Zealand
+2 SOUR @S25@
+0 @F14@ FAM
+1 HUSB @I68@
+1 WIFE @I74@
+1 CHIL @I81@
+1 CHIL @I80@
+1 CHIL @I79@
+1 CHIL @I75@
+1 CHIL @I78@
+1 CHIL @I76@
+1 CHIL @I77@
+1 MARR
+2 DATE 15 JAN 1872
+2 PLAC Prim Methodist, Smythedale, Vic, Aust
+0 @F15@ FAM
+1 HUSB @I68@
+1 WIFE @I67@
+1 CHIL @I13@
+1 CHIL @I70@
+1 CHIL @I69@
+1 CHIL @I71@
+1 CHIL @I82@
+1 MARR
+2 DATE 24 DEC 1860
+2 PLAC Geelong, Victoria, Australia
+2 SOUR @S24@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Marriage Records
+0 @F16@ FAM
+1 HUSB @I83@
+1 WIFE @I84@
+1 CHIL @I67@
+0 @F17@ FAM
+1 HUSB @I73@
+1 WIFE @I72@
+1 CHIL @I68@
+1 MARR
+2 DATE ABT 1830
+2 PLAC Guangzhou, Shunde, Guangdong, China
+1 MARR
+2 PLAC China
+0 @F18@ FAM
+1 HUSB @I87@
+1 WIFE @I71@
+0 @F19@ FAM
+1 HUSB @I64@
+1 WIFE @I88@
+0 @F20@ FAM
+1 HUSB @I63@
+1 WIFE @I89@
+0 @F21@ FAM
+1 HUSB @I61@
+1 WIFE @I90@
+0 @F22@ FAM
+1 HUSB @I60@
+1 WIFE @I91@
+1 MARR
+2 DATE 1909
+2 PLAC New Zealand
+2 SOUR @S25@
+0 @F23@ FAM
+1 HUSB @I59@
+1 WIFE @I92@
+0 @F24@ FAM
+1 HUSB @I57@
+1 WIFE @I94@
+0 @F25@ FAM
+1 HUSB @I95@
+1 WIFE @I56@
+0 @F26@ FAM
+1 HUSB @I96@
+1 WIFE @I54@
+1 MARR
+2 DATE 1935
+2 PLAC New Zealand
+2 SOUR @S25@
+0 @F27@ FAM
+1 HUSB @I93@
+1 WIFE @I58@
+0 @F28@ FAM
+1 HUSB @I49@
+1 WIFE @I27@
+0 @F29@ FAM
+1 HUSB @I51@
+1 WIFE @I25@
+0 @F30@ FAM
+1 HUSB @I48@
+1 WIFE @I29@
+0 @F31@ FAM
+1 HUSB @I46@
+1 WIFE @I31@
+0 @F32@ FAM
+1 HUSB @I19@
+1 WIFE @I18@
+1 CHIL @I97@
+1 CHIL @I12@
+0 @F33@ FAM
+1 HUSB @I97@
+1 WIFE @I24@
+1 MARR
+2 DATE 1898
+2 PLAC New Zealand
+2 SOUR @S25@
+0 @F34@ FAM
+1 HUSB @I103@
+1 WIFE @I17@
+1 MARR
+2 DATE 1930
+2 PLAC New Zealand
+2 SOUR @S25@
+0 @F35@ FAM
+1 HUSB @I86@
+1 WIFE @I85@
+1 CHIL @I84@
+0 @F36@ FAM
+1 HUSB @I53@
+1 WIFE @I52@
+1 CHIL @I104@
+1 CHIL @I110@
+1 CHIL @I111@
+1 CHIL @I105@
+1 CHIL @I108@
+1 CHIL @I109@
+1 CHIL @I112@
+1 CHIL @I106@
+1 CHIL @I14@
+1 CHIL @I107@
+1 MARR
+2 DATE 5 MAY 1832
+2 PLAC Malta
+0 @F37@ FAM
+1 HUSB @I111@
+1 WIFE @I117@
+0 @F38@ FAM
+1 HUSB @I116@
+1 WIFE @I115@
+1 CHIL @I118@
+1 CHIL @I119@
+1 CHIL @I120@
+1 CHIL @I53@
+1 CHIL @I123@
+1 CHIL @I121@
+1 CHIL @I122@
+1 MARR
+2 DATE 9 APR 1788
+2 PLAC Gosport, Hampshire, , England
+0 @F39@ FAM
+1 HUSB @I109@
+1 WIFE @I124@
+0 @F40@ FAM
+1 HUSB @I114@
+1 WIFE @I113@
+1 CHIL @I52@
+0 @F41@ FAM
+1 HUSB @I10@
+1 WIFE @I125@
+0 @F42@ FAM
+1 HUSB @I126@
+1 WIFE @I9@
+0 @F43@ FAM
+1 HUSB @I102@
+1 WIFE @I24@
+0 @F44@ FAM
+1 HUSB @I101@
+1 WIFE @I100@
+1 CHIL @I131@
+1 CHIL @I132@
+1 CHIL @I133@
+1 CHIL @I134@
+1 CHIL @I18@
+1 CHIL @I130@
+1 CHIL @I129@
+1 MARR
+2 DATE 1836
+2 PLAC County Cavan, Ireland
+0 @F45@ FAM
+1 HUSB @I99@
+1 WIFE @I98@
+1 CHIL @I19@
+0 @F46@ FAM
+1 HUSB @I37@
+1 WIFE @I36@
+1 CHIL @I35@
+1 MARR
+2 DATE 4 FEB 1792
+2 PLAC Ingleton West Riding Yorkshire
+2 SOUR @S21@
+2 SOUR @S40@
+3 PAGE Yorkshire Parish Register Section; Leeds, England, United Kingdom; Ingleton and Chapel-Le-Dale churches 1607-1812
+0 @F47@ FAM
+1 HUSB @I136@
+1 WIFE @I135@
+1 CHIL @I138@
+1 CHIL @I139@
+1 CHIL @I37@
+1 CHIL @I141@
+1 CHIL @I142@
+1 CHIL @I137@
+1 CHIL @I140@
+1 MARR
+2 DATE 6 JAN 1770
+2 PLAC Clapham, Yorkshire
+2 SOUR @S10@
+0 @F48@ FAM
+1 HUSB @I136@
+1 WIFE @I143@
+0 @F49@ FAM
+1 HUSB @I44@
+1 WIFE @I43@
+1 CHIL @I34@
+0 @F50@ FAM
+1 HUSB @I128@
+1 WIFE @I127@
+1 CHIL @I144@
+1 CHIL @I101@
+1 MARR
+2 DATE ABT 1799
+1 MARR
+2 DATE SEP 1850
+2 PLAC Ireland, Ireland
+0 @F51@ FAM
+1 HUSB @I7@
+1 WIFE @I145@
+0 @S1@ SOUR
+1 ABBR England & Wales, FreeBMD Birth Index, 1837-1915
+1 TITL FreeBMD, England & Wales, FreeBMD Birth Index, 1837-1915 (Online public
+2 CONC ation - Provo, UT, USA: Ancestry.com Operations Inc, 2006.Original data - G
+2 CONC eneral Register Office. England and Wales Civil Registration Indexes. L
+2 CONC ondon, England: General Register Office. © Crown copyright. Published b
+2 CONC y permission of the Contro)
+1 REPO @R1@
+0 @S2@ SOUR
+1 ABBR Ancestry Family Trees
+1 TITL Ancestry Family Trees (Online publication - Provo, UT, USA: Ancestry.co
+2 CONC m.  Original data:  Family Tree files submitted by Ancestry members.)
+1 NOTE This information comes from 1 or more individual Ancestry Family Tree f
+2 CONC iles. This source citation points you to a current version of those fil
+2 CONC es.  Note:  The owners of these tree files may have removed or changed i
+2 CONC nformation since this source citation was created.
+1 REPO @R2@
+0 @S3@ SOUR
+1 ABBR 1871 England Census
+1 TITL Ancestry.com, 1871 England Census (Ancestry.com Operations Inc)
+1 REPO @R3@
+0 @S4@ SOUR
+1 ABBR 1901 England Census
+1 TITL Ancestry.com, 1901 England Census (Ancestry.com Operations Inc)
+1 REPO @R3@
+0 @S5@ SOUR
+1 ABBR 1881 England Census
+1 TITL Ancestry.com and The Church of Jesus Christ of Latter-day Saints, 1881 E
+2 CONC ngland Census (Ancestry.com Operations Inc)
+1 REPO @R3@
+0 @S6@ SOUR
+1 ABBR Australia, Death Index, 1787-1985
+1 TITL Ancestry.com, Australia, Death Index, 1787-1985 (Ancestry.com Operation
+2 CONC s, Inc.)
+1 REPO @R3@
+0 @S7@ SOUR
+1 ABBR 1861 England Census
+1 TITL Ancestry.com, 1861 England Census (Ancestry.com Operations Inc)
+1 REPO @R3@
+0 @S8@ SOUR
+1 ABBR 1851 England Census
+1 TITL Ancestry.com, 1851 England Census (Ancestry.com Operations Inc)
+1 REPO @R3@
+0 @S9@ SOUR
+1 ABBR Australia, Electoral Rolls, 1903-1980
+1 TITL Ancestry.com, Australia, Electoral Rolls, 1903-1980 (Ancestry.com Opera
+2 CONC tions Inc)
+1 REPO @R3@
+0 @S10@ SOUR
+1 ABBR England, Select Marriages, 1538–1973
+1 TITL Ancestry.com, England, Select Marriages, 1538–1973 (Ancestry.com Operat
+2 CONC ions, Inc.)
+1 REPO @R3@
+0 @S11@ SOUR
+1 ABBR Australia, Birth Index, 1788-1922
+1 TITL Ancestry.com, Australia, Birth Index, 1788-1922 (Ancestry.com Operation
+2 CONC s, Inc.)
+1 REPO @R3@
+0 @S12@ SOUR
+1 ABBR Australia and New Zealand, Find A Grave Index, 1800s-Current
+1 TITL Ancestry.com, Australia and New Zealand, Find A Grave Index, 1800s-Curr
+2 CONC ent (Ancestry.com Operations, Inc.)
+1 REPO @R3@
+0 @S13@ SOUR
+1 ABBR New South Wales, Australia, Police Gazettes, 1854-1930
+1 TITL Ancestry.com, New South Wales, Australia, Police Gazettes, 1854-1930 (A
+2 CONC ncestry.com Operations, Inc.)
+1 REPO @R3@
+0 @S14@ SOUR
+1 ABBR England, Select Births and Christenings, 1538-1975
+1 TITL Ancestry.com, England, Select Births and Christenings, 1538-1975 (Ances
+2 CONC try.com Operations, Inc.)
+1 REPO @R3@
+0 @S15@ SOUR
+1 ABBR England & Wales Marriages, 1538-1940
+1 TITL Ancestry.com, England & Wales Marriages, 1538-1940 (Ancestry.com Operat
+2 CONC ions Inc)
+1 REPO @R3@
+0 @S16@ SOUR
+1 ABBR England, Select Deaths and Burials, 1538-1991
+1 TITL Ancestry.com, England, Select Deaths and Burials, 1538-1991 (Ancestry.c
+2 CONC om Operations, Inc.)
+1 REPO @R3@
+0 @S17@ SOUR
+1 ABBR England & Wales, National Probate Calendar (Index of Wills and Administrations), 1858-1966
+1 TITL Ancestry.com, England & Wales, National Probate Calendar (Index of Will
+2 CONC s and Administrations), 1858-1966 (Ancestry.com Operations Inc)
+1 REPO @R3@
+0 @S18@ SOUR
+1 ABBR UK, Incoming Passenger Lists, 1878-1960
+1 TITL Ancestry.com, UK, Incoming Passenger Lists, 1878-1960 (Ancestry.com Ope
+2 CONC rations Inc)
+1 REPO @R3@
+0 @S19@ SOUR
+1 ABBR Victoria, Australia, Assisted and Unassisted Passenger Lists, 1839-1923
+1 TITL Ancestry.com, Victoria, Australia, Assisted and Unassisted Passenger Li
+2 CONC sts, 1839-1923 (Ancestry.com Operations Inc.)
+1 REPO @R3@
+0 @S20@ SOUR
+1 ABBR Lancashire, England, Church of England Baptisms, Marriages and Burials, 1538-1812
+1 TITL Ancestry.com, Lancashire, England, Church of England Baptisms, Marriage
+2 CONC s and Burials, 1538-1812 (Ancestry.com Operations, Inc.)
+1 REPO @R3@
+0 @S21@ SOUR
+1 ABBR England, Pallot's Marriage Index, 1780-1837
+1 TITL Ancestry.com, England, Pallot's Marriage Index, 1780-1837 (Ancestry.com O
+2 CONC perations Inc)
+1 REPO @R3@
+0 @S22@ SOUR
+1 ABBR New Zealand, Cemetery Records, 1800-2007
+1 TITL Ancestry.com, New Zealand, Cemetery Records, 1800-2007 (Ancestry.com Op
+2 CONC erations, Inc.)
+1 REPO @R3@
+0 @S23@ SOUR
+1 ABBR Victoria, Australia, Birth Index, 1837-1917
+1 TITL Ancestry.com, Victoria, Australia, Birth Index, 1837-1917 (Ancestry.com O
+2 CONC perations, Inc.)
+1 REPO @R3@
+0 @S24@ SOUR
+1 ABBR Victoria, Australia, Marriage Index, 1837-1950
+1 TITL Ancestry.com, Victoria, Australia, Marriage Index, 1837-1950 (Ancestry.
+2 CONC com Operations, Inc.)
+1 REPO @R3@
+0 @S25@ SOUR
+1 ABBR New Zealand, Marriage Index, 1840-1937
+1 TITL Ancestry.com, New Zealand, Marriage Index, 1840-1937 (Ancestry.com Oper
+2 CONC ations, Inc.)
+1 REPO @R3@
+0 @S26@ SOUR
+1 ABBR New Zealand, World War II Ballot Lists, 1940-1945
+1 TITL New Zealand, World War II Ballot Lists, 1940-1945 (Ancestry.com Operati
+2 CONC ons, Inc.)
+1 REPO @R3@
+0 @S27@ SOUR
+1 ABBR New Zealand, Electoral Rolls, 1853-1981
+1 TITL Ancestry.com, New Zealand, Electoral Rolls, 1853-1981 (Ancestry.com Ope
+2 CONC rations, Inc.)
+1 REPO @R3@
+0 @S28@ SOUR
+1 ABBR New Zealand, City & Area Directories, 1866-1954
+1 TITL Ancestry.com, New Zealand, City & Area Directories, 1866-1954 (Ancestry
+2 CONC .com Operations, Inc.)
+1 REPO @R3@
+0 @S29@ SOUR
+1 ABBR New Zealand, The New Zealand Gazette, 1860-1894
+1 TITL Ancestry.com, New Zealand, The New Zealand Gazette, 1860-1894 (Ancestry
+2 CONC .com Operations, Inc.)
+1 REPO @R3@
+0 @S30@ SOUR
+1 ABBR New Zealand, Birth Index, 1840-1950
+1 TITL Ancestry.com, New Zealand, Birth Index, 1840-1950 (Ancestry.com Operati
+2 CONC ons, Inc.)
+1 REPO @R3@
+0 @S31@ SOUR
+1 ABBR Web: Victoria, Australia, Outward Passenger Index, 1852-1915
+1 TITL Ancestry.com, Web: Victoria, Australia, Outward Passenger Index, 1852-1
+2 CONC 915 (Ancestry.com Operations, Inc.)
+1 REPO @R3@
+0 @S32@ SOUR
+1 ABBR New Zealand, World War I Service Records, 1914-1920
+1 TITL Ancestry.com, New Zealand, World War I Service Records, 1914-1920 (Ance
+2 CONC stry.com Operations, Inc.)
+1 REPO @R3@
+0 @S33@ SOUR
+1 ABBR New Zealand Army WWI Roll of Honour, 1914-1919
+1 TITL Ancestry.com, New Zealand Army WWI Roll of Honour, 1914-1919 (Ancestry.
+2 CONC com Operations, Inc.)
+1 REPO @R3@
+0 @S34@ SOUR
+1 ABBR New Zealand, Notices of Deceased Estates, 1880-1950
+1 TITL Ancestry.com, New Zealand, Notices of Deceased Estates, 1880-1950 (Ance
+2 CONC stry.com Operations, Inc.)
+1 REPO @R3@
+0 @S35@ SOUR
+1 ABBR New Zealand Army WWI Reserve Rolls, 1916-1917
+1 TITL Ancestry.com, New Zealand Army WWI Reserve Rolls, 1916-1917 (Ancestry.c
+2 CONC om Operations, Inc.)
+1 REPO @R3@
+0 @S36@ SOUR
+1 ABBR New Zealand, Death Index, 1848-1966
+1 TITL Ancestry.com, New Zealand, Death Index, 1848-1966 (Ancestry.com Operati
+2 CONC ons, Inc.)
+1 REPO @R3@
+0 @S37@ SOUR
+1 ABBR New Zealand, Police Gazettes, 1878-1945
+1 TITL Ancestry.com, New Zealand, Police Gazettes, 1878-1945 (Ancestry.com Ope
+2 CONC rations, Inc.)
+1 REPO @R3@
+0 @S38@ SOUR
+1 ABBR UK, Naval Officer and Rating Service Records, 1802-1919
+1 TITL Ancestry.com, UK, Naval Officer and Rating Service Records, 1802-1919 (
+2 CONC Ancestry.com Operations, Inc.)
+1 REPO @R3@
+0 @S39@ SOUR
+1 ABBR Surrey, England, Church of England Marriages and Banns, 1754-1933
+1 TITL Ancestry.com, Surrey, England, Church of England Marriages and Banns, 1
+2 CONC 754-1933 (Ancestry.com Operations, Inc.)
+1 REPO @R3@
+0 @S40@ SOUR
+1 ABBR Yorkshire, England, Church of England Parish Records, 1538-1873
+1 TITL Ancestry.com, Yorkshire, England, Church of England Parish Records, 153
+2 CONC 8-1873 (Ancestry.com Operations Inc)
+1 REPO @R3@
+0 @R1@ REPO
+1 NAME Ancestry.com.au
+1 ADDR http://www.Ancestry.com.au
+2 ADR1 http://www.Ancestry.com.au
+0 @R2@ REPO
+1 NAME Ancestry.co.uk
+1 ADDR http://www.Ancestry.co.uk
+2 ADR1 http://www.Ancestry.co.uk
+0 @R3@ REPO
+1 NAME Ancestry.com
+1 ADDR
+0 TRLR
